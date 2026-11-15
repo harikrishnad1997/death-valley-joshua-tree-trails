@@ -21,10 +21,10 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 
 ## Trip at a glance {#trip-at-a-glance}
 
-- **Flights — BOOKED:** United, conf MW7JPS. Thu Dec 17, UA 777, ORD 8:20 PM → LAS 10:38 PM. Wed Dec 23, UA 2102, LAS 11:50 PM → ORD 5:31 AM Thu Dec 24. Two passengers, $657.60 total.
-- **Rental — BOOKED:** Enterprise LAS, conf 81052413. Nissan Rogue AWD, pickup Fri Dec 18 9:00 PM / return Wed Dec 23 9:00 PM, $383.48 estimated. All-in with flights: $1,041.08.
-- **Lodging — TO BOOK:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Stovepipe Wells ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
-- **Park entry:** $30 per vehicle per park, or the $80 America the Beautiful pass covering both — buy at REI Oakbrook on Tue Dec 15.
+- **Dates:** Dec 17–23, 2026 — fly into Las Vegas, five park days Sat Dec 19 – Wed Dec 23, fly home on the Wed night redeye.
+- **Route:** Death Valley first, then Mojave National Preserve on the Mon Dec 21 transfer day, then Joshua Tree.
+- **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Stovepipe Wells ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
+- **Park entry:** $30 per vehicle per park, or the $80 America the Beautiful pass covering both.
 - **Stargazing is off** — full moon Wed Dec 23, and the moon is up all evening every night of the trip.
 - **Passport stamps:** bring the Collector's Edition book. Death Valley and Joshua Tree stamps at their visitor centers; Mojave stamp at the Barstow headquarters desk on Wed Dec 23 (or Hole-in-the-Wall on Mon Dec 21 if it's open — verify by phone, 760-252-6104).
 
@@ -86,7 +86,7 @@ Inspiration Peak is a steep, partly unmarked climb from the Keys View lot — do
 | Boy Scout Trail to Willow Hole | 6.9 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=Willow+Hole+Joshua+Tree+National+Park+CA) |
 | Lost Palms Oasis Trail | 7.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=Lost+Palms+Oasis+Joshua+Tree+National+Park+CA) |
 
-Pick **one** big hike, started early — Boy Scout to Willow Hole or Lost Palms Oasis. Leave Joshua Tree town by ~1:30 PM for the Mojave stamp at the Barstow headquarters desk (~20–30 min, weekdays until ~4:30 PM), then I-15 to LAS. Return the car by 9:00 PM; UA 2102 departs 11:50 PM.
+Pick **one** big hike, started early — Boy Scout to Willow Hole or Lost Palms Oasis. Leave Joshua Tree town by ~1:30 PM for the Mojave stamp at the Barstow headquarters desk (~20–30 min, weekdays until ~4:30 PM), then drive to Las Vegas for the Wednesday night flight home.
 
 ## Not in the plan {#not-in-the-plan}
 
@@ -99,8 +99,7 @@ Pick **one** big hike, started early — Boy Scout to Willow Hole or Lost Palms 
 - **Download offline maps before the parks** — get AllTrails+ while on Wi-Fi in Las Vegas on Fri Dec 18. Cell service is spotty to nonexistent inside both parks.
 - **Water and gas are scarce in Death Valley** — stock up in Las Vegas or Pahrump on Friday night.
 - **Friday's drive arrives ~midnight** — the Furnace Creek hotel must allow very late check-in.
-- **No toll roads on this loop** — decline the toll pass at the Enterprise counter.
+- **No toll roads on this loop** — decline the toll pass at the rental counter.
 - **Full moon Wed Dec 23** — no stargazing this trip.
-- **Megha Akka's birthday is Fri Dec 18** — your work day in Las Vegas.
 
 [Back to top](#top)
