@@ -136,12 +136,14 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Zabriskie Point / Badlands Loop 🌅 6:54 AM | 2.6 mi · 1–1.5 hr | [AllTrails](https://www.alltrails.com/trail/us/california/badlands-loop-via-zabriskie-point-trail-and-gower-gulch-path) · [Map](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA) |
-| Dante's View | 0.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/dantes-view-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Dante%27s+View+Death+Valley+National+Park+CA) |
-| Badwater Salt Flat Trail | 1.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badwater-basin-salt-flats-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA) |
-| Artist's Palette / Artists Drive | 0.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/artists-palette-overlook) · [Map](https://www.google.com/maps/search/?api=1&query=Artist%27s+Palette+Death+Valley+National+Park+CA) |
-| Natural Bridge Canyon Trail | 1.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/death-valley-natural-bridge-road) · [Map](https://www.google.com/maps/search/?api=1&query=Natural+Bridge+Canyon+Death+Valley+National+Park+CA) |
-| Harmony Borax Works Interpretive Trail | 0.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/harmony-borax-works) · [Map](https://www.google.com/maps/search/?api=1&query=Harmony+Borax+Works+Death+Valley+National+Park+CA) |
+| Zabriskie Point / Badlands Loop 🌅 6:54 AM | 2.6 mi · 1–1.5 hr | [AllTrails](https://www.alltrails.com/trail/us/california/badlands-loop-via-zabriskie-point-trail-and-gower-gulch-path) · [Map](https://www.google.com/maps/search/?api=1&query=36.42085,-116.8099) |
+| Dante's View | 0.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/dantes-view-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.220659,-116.726753) |
+| Badwater Salt Flat Trail | 1.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badwater-basin-salt-flats-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.25033,-116.825858) |
+| Artist's Palette / Artists Drive | 0.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/artists-palette-overlook) · [Map](https://www.google.com/maps/search/?api=1&query=36.363515,-116.802741) |
+| Natural Bridge Canyon Trail | 1.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/death-valley-natural-bridge-road) · [Map](https://www.google.com/maps/search/?api=1&query=36.28115,-116.7699) |
+| Harmony Borax Works Interpretive Trail | 0.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/harmony-borax-works) · [Map](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) |
+
+**Parking:** the lots, in order — [Zabriskie Point](https://www.google.com/maps/search/?api=1&query=36.42085,-116.8099) · [Dante's View](https://www.google.com/maps/search/?api=1&query=36.220659,-116.726753) · [Badwater](https://www.google.com/maps/search/?api=1&query=36.25033,-116.825858) · [Artist's Palette pullouts](https://www.google.com/maps/search/?api=1&query=36.363515,-116.802741) on the one-way Artists Drive · [Natural Bridge](https://www.google.com/maps/search/?api=1&query=36.28115,-116.7699) · [Harmony Borax Works](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107). The Zabriskie lot fills at sunrise and sunset, but the plan visits mid-morning.
 
 **The stops, in order:**
 
@@ -160,12 +162,14 @@ The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Go
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Golden Canyon Trail (to Red Cathedral) | — | [AllTrails](https://www.alltrails.com/trail/us/california/golden-canyon-trail-to-red-cathedral) · [Map](https://www.google.com/maps/search/?api=1&query=Golden+Canyon+Trail+Death+Valley+National+Park+CA) |
-| Gower Gulch Loop (Golden Canyon → Gower Gulch) | 4.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/gower-gulch-loop-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA) |
-| Desolation Canyon Trail | 3.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/desolation-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Desolation+Canyon+Death+Valley+National+Park+CA) |
-| Mosaic Canyon Trail | 3.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mosaic-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mosaic+Canyon+Death+Valley+National+Park+CA) |
-| Mesquite Flat Sand Dunes Trail 🌇 4:35 PM | 2 mi · 0.5–1 hr | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA) |
-| Ubehebe Crater — **OPTIONAL** | 1.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/ubehebe-and-little-hebe-crater-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA) |
+| Golden Canyon Trail (to Red Cathedral) | — | [AllTrails](https://www.alltrails.com/trail/us/california/golden-canyon-trail-to-red-cathedral) · [Map](https://www.google.com/maps/search/?api=1&query=36.420745,-116.846614) |
+| Gower Gulch Loop (Golden Canyon → Gower Gulch) | 4.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/gower-gulch-loop-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.41647,-116.835842) |
+| Desolation Canyon Trail | 3.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/desolation-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.395833,-116.83877) |
+| Mosaic Canyon Trail | 3.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mosaic-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.56653,-117.13459) |
+| Mesquite Flat Sand Dunes Trail 🌇 4:35 PM | 2 mi · 0.5–1 hr | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.6618711,-117.0962487) |
+| Ubehebe Crater — **OPTIONAL** | 1.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/ubehebe-and-little-hebe-crater-trail) · [Map](https://www.google.com/maps/search/?api=1&query=37.0098,-117.45082) |
+
+**Parking:** [Golden Canyon](https://www.google.com/maps/search/?api=1&query=36.420745,-116.846614) · [Desolation Canyon pullout](https://www.google.com/maps/search/?api=1&query=36.395833,-116.83877) on CA-190 · [Mosaic Canyon](https://www.google.com/maps/search/?api=1&query=36.56653,-117.13459) · [Mesquite Dunes](https://www.google.com/maps/search/?api=1&query=36.6618711,-117.0962487). The Golden Canyon lot fills fast in peak season, so the early start helps. (Optional Ubehebe: [crater lot](https://www.google.com/maps/search/?api=1&query=37.0098,-117.45082).)
 
 **The stops, in order:**
 
@@ -184,11 +188,13 @@ The transfer day is now a full Mojave day — and a long one. Leave Stovepipe We
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Teutonia Peak Trail | 3.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/teutonia-peak-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Teutonia+Peak+Trail+Mojave+National+Preserve+CA) |
-| Kelso Dunes Trail | 3.0 mi | [AllTrails](https://www.alltrails.com/trail/us/california/kelso-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Kelso+Dunes+Mojave+National+Preserve+CA) |
-| Hole-in-the-Wall Rings Trail | 1.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/hole-in-the-wall-rings-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Mojave+National+Preserve+CA) |
-| Lava Tube Trail | 0.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lava-tube-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Lava+Tube+Trail+Mojave+National+Preserve+CA) |
-| Amboy Crater — viewpoint stop | — | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/amboy-crater) · [Map](https://www.google.com/maps/search/?api=1&query=Amboy+Crater+Mojave+National+Preserve+CA) |
+| Teutonia Peak Trail | 3.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/teutonia-peak-trail) · [Map](https://www.google.com/maps/search/?api=1&query=35.31625,-115.5525) |
+| Kelso Dunes Trail | 3.0 mi | [AllTrails](https://www.alltrails.com/trail/us/california/kelso-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=34.89235,-115.69906) |
+| Hole-in-the-Wall Rings Trail | 1.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/hole-in-the-wall-rings-trail) · [Map](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) |
+| Lava Tube Trail | 0.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lava-tube-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=35.21378,-115.7532) |
+| Amboy Crater — viewpoint stop | — | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/amboy-crater) · [Map](https://www.google.com/maps/search/?api=1&query=34.5572,-115.7814) |
+
+**Parking:** [Teutonia Peak pullout](https://www.google.com/maps/search/?api=1&query=35.31625,-115.5525) on Cima Road (small, dirt) · [Kelso Dunes](https://www.google.com/maps/search/?api=1&query=34.89235,-115.69906) · [Hole-in-the-Wall](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) (visitor center lot) · [Lava Tube pullout](https://www.google.com/maps/search/?api=1&query=35.21378,-115.7532) on Aiken Mine Road · [Amboy Crater viewpoint](https://www.google.com/maps/search/?api=1&query=34.5572,-115.7814) on Route 66.
 
 **The stops, in order:**
 
@@ -206,14 +212,16 @@ The full Joshua Tree day: Ryan Mountain first for the morning light, then the sh
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Ryan Mountain Trail | 2.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/ryan-mountain-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Ryan+Mountain+Joshua+Tree+National+Park+CA) |
-| Hidden Valley Nature Trail | 1.0 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/hidden-valley--3) · [Map](https://www.google.com/maps/search/?api=1&query=Hidden+Valley+Joshua+Tree+National+Park+CA) |
-| Barker Dam Trail | 1.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/barker-dam--2) · [Map](https://www.google.com/maps/search/?api=1&query=Barker+Dam+Joshua+Tree+National+Park+CA) |
-| Skull Rock Trail | 1.7 mi | [AllTrails](https://www.alltrails.com/trail/us/california/skull-rock-nature-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Skull+Rock+Joshua+Tree+National+Park+CA) |
-| Split Rock Loop Trail | 2.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/split-rock-loop--4) · [Map](https://www.google.com/maps/search/?api=1&query=Split+Rock+Joshua+Tree+National+Park+CA) |
-| Hall of Horrors | — | [AllTrails](https://www.alltrails.com/trail/us/california/hall-of-horrors) · [Map](https://www.google.com/maps/search/?api=1&query=Hall+of+Horrors+Joshua+Tree+National+Park+CA) |
-| Inspiration Peak (from Keys View) | 1.9 mi · avg ~1 h 12 min | [AllTrails](https://www.alltrails.com/trail/us/california/inspiration-peak-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA) |
-| Keys View 🌇 4:40 PM | 0.1 mi · 2 min | [AllTrails](https://www.alltrails.com/trail/us/california/keys-view) · [Map](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA) |
+| Ryan Mountain Trail | 2.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/ryan-mountain-trail) · [Map](https://www.google.com/maps/search/?api=1&query=34.00257,-116.13594) |
+| Hidden Valley Nature Trail | 1.0 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/hidden-valley--3) · [Map](https://www.google.com/maps/search/?api=1&query=34.012466,-116.168057) |
+| Barker Dam Trail | 1.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/barker-dam--2) · [Map](https://www.google.com/maps/search/?api=1&query=34.0251,-116.142) |
+| Skull Rock Trail | 1.7 mi | [AllTrails](https://www.alltrails.com/trail/us/california/skull-rock-nature-trail) · [Map](https://www.google.com/maps/search/?api=1&query=33.997722,-116.059458) |
+| Split Rock Loop Trail | 2.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/split-rock-loop--4) · [Map](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) |
+| Hall of Horrors | — | [AllTrails](https://www.alltrails.com/trail/us/california/hall-of-horrors) · [Map](https://www.google.com/maps/search/?api=1&query=34.00052,-116.147084) |
+| Inspiration Peak (from Keys View) | 1.9 mi · avg ~1 h 12 min | [AllTrails](https://www.alltrails.com/trail/us/california/inspiration-peak-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=33.93576,-116.19551) |
+| Keys View 🌇 4:40 PM | 0.1 mi · 2 min | [AllTrails](https://www.alltrails.com/trail/us/california/keys-view) · [Map](https://www.google.com/maps/search/?api=1&query=33.92658,-116.187214) |
+
+**Parking:** [Ryan Mountain](https://www.google.com/maps/search/?api=1&query=34.00257,-116.13594) · [Hidden Valley](https://www.google.com/maps/search/?api=1&query=34.012466,-116.168057) · [Barker Dam](https://www.google.com/maps/search/?api=1&query=34.0251,-116.142) · [Skull Rock pullout](https://www.google.com/maps/search/?api=1&query=33.997722,-116.059458) on Park Blvd · [Split Rock](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) · [Hall of Horrors pullout](https://www.google.com/maps/search/?api=1&query=34.00052,-116.147084) · [Keys View](https://www.google.com/maps/search/?api=1&query=33.92658,-116.187214). Ryan Mountain, Hidden Valley and Barker Dam lots all fill on busy mornings — Tuesday starts early for exactly that reason. The Keys View lot is small and can close when full (NPS), so the ~3 PM climb start gets you there before the sunset rush.
 
 **The stops, in order:**
 
@@ -234,10 +242,12 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Cholla Cactus Garden Nature Trail 🌅 6:46 AM | 0.2 mi · 0.5–1 hr | [AllTrails](https://www.alltrails.com/trail/us/california/cholla-cactus-garden) · [Map](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA) |
-| Arch Rock Nature Trail | 1.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/arch-rock-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Arch+Rock+Trail+Joshua+Tree+National+Park+CA) |
-| Boy Scout Trail to Willow Hole | 6.9 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=Willow+Hole+Joshua+Tree+National+Park+CA) |
-| Lost Palms Oasis Trail | 7.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=Lost+Palms+Oasis+Joshua+Tree+National+Park+CA) |
+| Cholla Cactus Garden Nature Trail 🌅 6:46 AM | 0.2 mi · 0.5–1 hr | [AllTrails](https://www.alltrails.com/trail/us/california/cholla-cactus-garden) · [Map](https://www.google.com/maps/search/?api=1&query=33.9248428,-115.9293477) |
+| Arch Rock Nature Trail | 1.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/arch-rock-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) |
+| Boy Scout Trail to Willow Hole | 6.9 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) |
+| Lost Palms Oasis Trail | 7.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) |
+
+**Parking:** [Cholla](https://www.google.com/maps/search/?api=1&query=33.9248428,-115.9293477) (small lot) · [Arch Rock](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) · then whichever big hike: [Boy Scout Trailhead](https://www.google.com/maps/search/?api=1&query=34.04042,-116.18627) on Park Blvd for Willow Hole, or [Cottonwood Spring](https://www.google.com/maps/search/?api=1&query=33.67555,-115.80163) for Lost Palms Oasis.
 
 **The stops, in order:**
 
@@ -254,7 +264,7 @@ Every center the trip actually needs — for the passport stamps, passes, water,
 | --- | --- | --- | --- |
 | [Furnace Creek Visitor Center](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | Sat Dec 19 (or any time Fri–Sun — you're based there) | Death Valley stamp, park film, passes, water, restrooms — the park's only full visitor center | Daily 8 AM–5 PM |
 | [Stovepipe Wells Ranger Station](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) | Sun Dec 20 — backup only | A second Death Valley stamp (Stovepipe Wells oval) if you miss Furnace Creek; also sells passes. Contact station, not a full center — hours vary and it isn't open every day, so call 760-786-3200 first | Varies — call ahead |
-| [Hole-in-the-Wall Information Center](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Information+Center+Mojave+National+Preserve+CA) | Mon Dec 21 | Mojave + Castle Mountains stamps — get them first, then the Rings Loop | Fri–Mon 10 AM–4 PM |
+| [Hole-in-the-Wall Information Center](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) | Mon Dec 21 | Mojave + Castle Mountains stamps — get them first, then the Rings Loop | Fri–Mon 10 AM–4 PM |
 | [Joshua Tree Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+Visitor+Center+6554+Park+Blvd+Joshua+Tree+CA) | Tue Dec 22, on the way in via the West Entrance | Joshua Tree stamp (dated stamp plus two picture stamps — a Joshua tree and a desert tortoise), maps, passes, cafe | Daily 7:30 AM–5 PM |
 | [Joshua Tree National Park Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+Visitor+Center+Twentynine+Palms+CA) | Alternate for the Joshua Tree stamp | Same stamp, at the park headquarters by the Oasis of Mara near the North Entrance — use it if you miss the downtown center | Daily 8 AM–5 PM |
 
@@ -283,9 +293,9 @@ Vegetarian options at each stop of the trip. Inside Death Valley there are only 
 
 **Joshua Tree &amp; Twentynine Palms — Mon Dec 21, Tue Dec 22**
 
-- **Crossroads Cafe** (downtown Joshua Tree) — the town's breakfast and lunch institution, with plenty of vegetarian and vegan choices; go early, it fills up 8–10 AM. [Map](https://www.google.com/maps/search/?api=1&query=Crossroads+Cafe+Joshua+Tree+CA)
-- **Natural Sisters Cafe** (61695 Twentynine Palms Hwy, Joshua Tree) — vegetarian and vegan-friendly cafe: smoothies, bowls, and wraps, near the West Entrance. [Map](https://www.google.com/maps/search/?api=1&query=Natural+Sisters+Cafe+Joshua+Tree+CA)
-- **Pie for the People** (downtown Joshua Tree) — pizza by the slice with vegan and vegetarian options; the late-afternoon hiker staple for dinner. [Map](https://www.google.com/maps/search/?api=1&query=Pie+for+the+People+Joshua+Tree+CA)
+- **Crossroads Cafe** (downtown Joshua Tree) — the town's breakfast and lunch institution, with plenty of vegetarian and vegan choices; go early, it fills up 8–10 AM. [Map](https://www.google.com/maps/search/?api=1&query=Crossroads+Cafe+61715+29+Palms+Hwy+Joshua+Tree+CA)
+- **Natural Sisters Cafe** (61695 Twentynine Palms Hwy, Joshua Tree) — vegetarian and vegan-friendly cafe: smoothies, bowls, and wraps, near the West Entrance. [Map](https://www.google.com/maps/search/?api=1&query=Natural+Sisters+Cafe+61695+Twentynine+Palms+Hwy+Joshua+Tree+CA)
+- **Pie for the People** (downtown Joshua Tree) — pizza by the slice with vegan and vegetarian options; the late-afternoon hiker staple for dinner. [Map](https://www.google.com/maps/search/?api=1&query=Pie+for+the+People+61740+29+Palms+Hwy+Joshua+Tree+CA)
 
 One more worth knowing: **La Copine** in Flamingo Heights is the area's best table — a small farm-to-table spot with a seasonal menu — but it needs a reservation weeks ahead, so it isn't a walk-in option.
 
@@ -320,6 +330,7 @@ No real grocery inside either park, so the packable food comes from the towns on
 - **Water and gas are scarce in Death Valley** — stock up in Las Vegas or Pahrump on Friday night.
 - **Friday's drive arrives ~midnight** — the Furnace Creek hotel must allow very late check-in.
 - **No toll roads on this loop** — decline the toll pass at the rental counter.
+- **Parking lots fill up** — Golden Canyon, Ryan Mountain, Hidden Valley, Barker Dam, Split Rock and Keys View can all fill or close when full (NPS), so start early and if a lot is full, move on to the next stop and swing back.
 
 ## Packing checklist {#packing-checklist}
 
