@@ -260,13 +260,13 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 
 Every center the trip actually needs — for the passport stamps, passes, water, and ranger info. Four of the five hold a stamp; Kelso Depot is closed, so it's listed only so you don't count on it.
 
-| Visitor center | Day | What for | Hours |
-| --- | --- | --- | --- |
-| [Furnace Creek Visitor Center](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | Sat Dec 19 (or any time Fri–Sun — you're based there) | Death Valley stamp, park film, passes, water, restrooms — the park's only full visitor center | Daily 8 AM–5 PM |
-| [Stovepipe Wells Ranger Station](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) | Sun Dec 20 — backup only | A second Death Valley stamp (Stovepipe Wells oval) if you miss Furnace Creek; also sells passes. Contact station, not a full center — hours vary and it isn't open every day, so call 760-786-3200 first | Varies — call ahead |
-| [Hole-in-the-Wall Information Center](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) | Mon Dec 21 | Mojave + Castle Mountains stamps — get them first, then the Rings Loop | Fri–Mon 10 AM–4 PM |
-| [Joshua Tree Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+Visitor+Center+6554+Park+Blvd+Joshua+Tree+CA) | Tue Dec 22, on the way in via the West Entrance | Joshua Tree stamp (dated stamp plus two picture stamps — a Joshua tree and a desert tortoise), maps, passes, cafe | Daily 7:30 AM–5 PM |
-| [Joshua Tree National Park Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+Visitor+Center+Twentynine+Palms+CA) | Alternate for the Joshua Tree stamp | Same stamp, at the park headquarters by the Oasis of Mara near the North Entrance — use it if you miss the downtown center | Daily 8 AM–5 PM |
+| Visitor center | Day | What for | Food inside? | Hours |
+| --- | --- | --- | --- | --- |
+| [Furnace Creek Visitor Center](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | Sat Dec 19 (or any time Fri–Sun — you're based there) | Death Valley stamp, park film, passes, water, restrooms — the park's only full visitor center | No restaurant inside — the Inn Dining Room and Last Kind Words Saloon are right there at Furnace Creek (see Places to eat) | Daily 8 AM–5 PM |
+| [Stovepipe Wells Ranger Station](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) | Sun Dec 20 — backup only | A second Death Valley stamp (Stovepipe Wells oval) if you miss Furnace Creek; also sells passes. Contact station, not a full center — hours vary and it isn't open every day, so call 760-786-3200 first | No restaurant inside — Toll Road Restaurant and Badwater Saloon are at Stovepipe Wells Village | Varies — call ahead |
+| [Hole-in-the-Wall Information Center](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) | Mon Dec 21 | Mojave + Castle Mountains stamps — get them first, then the Rings Loop | No food here — stock up in Baker before the preserve drive | Fri–Mon 10 AM–4 PM |
+| [Joshua Tree Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+Visitor+Center+6554+Park+Blvd+Joshua+Tree+CA) | Tue Dec 22, on the way in via the West Entrance | Joshua Tree stamp (dated stamp plus two picture stamps — a Joshua tree and a desert tortoise), maps, passes, cafe | Yes — the Roadrunner Grab+Go Café inside: coffee, sandwiches, wraps and snacks (grab-and-go, good for the drive in) | Daily 7:30 AM–5 PM |
+| [Joshua Tree National Park Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+Visitor+Center+Twentynine+Palms+CA) | Alternate for the Joshua Tree stamp | Same stamp, at the park headquarters by the Oasis of Mara near the North Entrance — use it if you miss the downtown center | No restaurant inside — eat in Twentynine Palms town | Daily 8 AM–5 PM |
 
 Not needed: the **Kelso Depot Visitor Center** is closed for repairs (exterior only, no stamp); the **Barstow headquarters** (weekdays ~8 AM–4:30 PM) is the backup Mojave stamp only if Hole-in-the-Wall is closed; **Cottonwood Visitor Center** (south entrance) and **Black Rock Nature Center** (Yucca Valley) aren't on the route.
 
@@ -279,6 +279,7 @@ Vegetarian options at each stop of the trip. Inside Death Valley there are only 
 - **Crossroads Kitchen** (Resorts World, 3000 S Las Vegas Blvd, the Strip) — fully plant-based fine dining: Mediterranean-inspired small plates. [Map](https://www.google.com/maps/search/?api=1&query=Crossroads+Kitchen+3000+S+Las+Vegas+Blvd+Las+Vegas+NV)
 - **Tacotarian** (Planet Hollywood, 3663 Las Vegas Blvd S, the Strip) — plant-based Mexican tacos, in the Miracle Mile mall. [Map](https://www.google.com/maps/search/?api=1&query=Tacotarian+Planet+Hollywood+Las+Vegas+NV)
 - **True Food Kitchen** (The Forum Shops at Caesars, the Strip) — a full vegetarian and vegan menu alongside the regular dishes. [Map](https://www.google.com/maps/search/?api=1&query=True+Food+Kitchen+Forum+Shops+Caesars+Las+Vegas+NV)
+- **Siegel's Bagelmania** (252 Convention Center Dr, near the Strip) — New York-style bagels since 1989: lox bagel, everything bagel, cream cheese; open 6 AM–3:30 PM daily. [Map](https://www.google.com/maps/search/?api=1&query=Siegels+Bagelmania+252+Convention+Center+Dr+Las+Vegas+NV)
 
 **Death Valley — Sat Dec 19, Sun Dec 20**
 
