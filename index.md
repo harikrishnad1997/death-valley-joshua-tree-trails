@@ -366,6 +366,8 @@ December desert: mild days, cold mornings and nights, no cell service in the par
 - [ ] Peanut butter + jam
 - [ ] Trail mix, granola bars, dried fruit
 - [ ] Fruit that travels well — bananas, apples
+- [ ] Coffee — a big bag, for the mornings
+- [ ] Coke Zero — a case (or two) for the drives
 - [ ] Crackers
 - [ ] A butter knife, napkins, and zip bags for the sandwiches
 
