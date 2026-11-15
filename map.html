@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Death Valley + Joshua Tree — Trip Map (color-coded by day)</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<style>
+  html, body { height: 100%; margin: 0; font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+  #bar { background: #2f5233; color: #fff; padding: 10px 14px; }
+  #bar h1 { font-size: 18px; margin: 0 0 2px; }
+  #bar p { margin: 0; font-size: 13px; opacity: .9; }
+  #map { height: calc(100% - 62px); }
+  .pin { border-radius: 50%; color: #fff; font-weight: 700; font-size: 12px; text-align: center; line-height: 24px; width: 24px; height: 24px; border: 2px solid #fff; box-shadow: 0 1px 4px rgba(0,0,0,.45); }
+  .legend { background: rgba(255,255,255,.92); padding: 6px 8px; border-radius: 6px; box-shadow: 0 1px 5px rgba(0,0,0,.3); font-size: 12px; line-height: 1.55; }
+  @media (max-width: 700px) { .legend { display: none; } }
+  .legend .chip { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; }
+  .leaflet-popup-content { font-size: 14px; }
+</style>
+</head>
+<body>
+<div id="bar">
+  <h1>Death Valley + Joshua Tree — Trip Map</h1>
+  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name, distance, and a Google Maps link. Pins are numbered in visit order within each day.</p>
+</div>
+<div id="map"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+var COLORS = { day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e", day4: "#7b1fa2", day5: "#c62828" };
+var DAYLABEL = { day1: "Day 1 · Sat Dec 19 — Death Valley east/central", day2: "Day 2 · Sun Dec 20 — Death Valley canyons", day3: "Day 3 · Mon Dec 21 — Mojave + transfer", day4: "Day 4 · Tue Dec 22 — Joshua Tree west/central", day5: "Day 5 · Wed Dec 23 — Joshua Tree east + big hike" };
+var STOPS = [
+  // Day 1 — Sat Dec 19, Death Valley east/central
+  { n: "1 · Zabriskie Point / Badlands Loop", d: "day1", t: "2.6 mi · the first stop of the trip — golden badlands ridges", lat: 36.42085, lng: -116.8099, q: "Zabriskie+Point+Death+Valley+National+Park+CA" },
+  { n: "2 · Dante's View", d: "day1", t: "0.9 mi · 5,000 ft above Badwater Basin", lat: 36.220659, lng: -116.726753, q: "Dante%27s+View+Death+Valley+National+Park+CA" },
+  { n: "3 · Badwater Salt Flat Trail", d: "day1", t: "1.9 mi · lowest point in North America, -282 ft", lat: 36.25033, lng: -116.825858, q: "Badwater+Basin+Death+Valley+National+Park+CA" },
+  { n: "4 · Artist's Palette / Artists Drive", d: "day1", t: "0.3 mi · colorful mineral-stained hills on a one-way scenic drive", lat: 36.363515, lng: -116.802741, q: "Artist%27s+Palette+Death+Valley+National+Park+CA" },
+  { n: "5 · Natural Bridge Canyon Trail", d: "day1", t: "1.5 mi · natural rock bridge in a narrow canyon", lat: 36.28115, lng: -116.7699, q: "Natural+Bridge+Canyon+Death+Valley+National+Park+CA" },
+  { n: "6 · Harmony Borax Works Interpretive Trail", d: "day1", t: "0.4 mi · 1880s borax mining ruins — no AllTrails trail page", lat: 36.47982, lng: -116.87107, q: "Harmony+Borax+Works+Death+Valley+National+Park+CA" },
+  // Day 2 — Sun Dec 20, Death Valley canyons
+  { n: "1 · Golden Canyon Trail (to Red Cathedral)", d: "day2", t: "Hike in through Golden Canyon, out through Gower Gulch — one 4.3 mi loop", lat: 36.420745, lng: -116.846614, q: "Golden+Canyon+Trail+Death+Valley+National+Park+CA" },
+  { n: "2 · Gower Gulch Loop", d: "day2", t: "4.3 mi loop with Golden Canyon", lat: 36.41647, lng: -116.835842, q: "Gower+Gulch+Death+Valley+National+Park+CA" },
+  { n: "3 · Desolation Canyon Trail", d: "day2", t: "3.8 mi · badlands canyon off the valley floor", lat: 36.395833, lng: -116.83877, q: "Desolation+Canyon+Death+Valley+National+Park+CA" },
+  { n: "4 · Mosaic Canyon Trail", d: "day2", t: "3.6 mi · polished marble narrows near Stovepipe Wells", lat: 36.56653, lng: -117.13459, q: "Mosaic+Canyon+Death+Valley+National+Park+CA" },
+  { n: "5 · Mesquite Flat Sand Dunes Trail", d: "day2", t: "2 mi · sunset stop — tallest dune is ~100 ft", lat: 36.6618711, lng: -117.0962487, q: "Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA" },
+  // Day 3 — Mon Dec 21, Mojave + transfer
+  { n: "1 · Kelso Dunes Trail", d: "day3", t: "3.0 mi · the singing dunes of Mojave National Preserve", lat: 34.89235, lng: -115.69906, q: "Kelso+Dunes+Mojave+National+Preserve+CA" },
+  { n: "2 · Amboy Crater Trail", d: "day3", t: "4.1 mi · ancient cinder cone volcano on Route 66", lat: 34.5572, lng: -115.7814, q: "Amboy+Crater+Mojave+National+Preserve+CA" },
+  // Day 4 — Tue Dec 22, Joshua Tree west/central
+  { n: "1 · Ryan Mountain Trail", d: "day4", t: "2.9 mi · 1,050 ft climb, panoramic summit — do it early", lat: 34.00257, lng: -116.13594, q: "Ryan+Mountain+Joshua+Tree+National+Park+CA" },
+  { n: "2 · Hidden Valley Nature Trail", d: "day4", t: "1.0 mi · boulder-enclosed valley loop", lat: 34.012466, lng: -116.168057, q: "Hidden+Valley+Joshua+Tree+National+Park+CA" },
+  { n: "3 · Barker Dam Trail", d: "day4", t: "1.3 mi · historic dam, water, and petroglyphs", lat: 34.0251, lng: -116.142, q: "Barker+Dam+Joshua+Tree+National+Park+CA" },
+  { n: "4 · Skull Rock Trail", d: "day4", t: "1.7 mi · the skull-shaped rock formation on Park Blvd", lat: 33.997722, lng: -116.059458, q: "Skull+Rock+Joshua+Tree+National+Park+CA" },
+  { n: "5 · Split Rock Loop Trail", d: "day4", t: "2.5 mi · loop past the split boulder", lat: 34.00955, lng: -116.05577, q: "Split+Rock+Joshua+Tree+National+Park+CA" },
+  { n: "6 · Hall of Horrors", d: "day4", t: "Short scramble among the boulders by Ryan Campground", lat: 34.00052, lng: -116.147084, q: "Hall+of+Horrors+Joshua+Tree+National+Park+CA" },
+  { n: "7 · Inspiration Peak (from Keys View)", d: "day4", t: "1.9 mi · steep, partly unmarked climb from the Keys View lot — download the map first", lat: 33.93576, lng: -116.19551, q: "Mount+Inspiration+Joshua+Tree+National+Park+CA" },
+  { n: "8 · Keys View", d: "day4", t: "0.1 mi · sunset overlook above Coachella Valley", lat: 33.92658, lng: -116.187214, q: "Keys+View+Joshua+Tree+National+Park+CA" },
+  // Day 5 — Wed Dec 23, Joshua Tree east + big hike
+  { n: "1 · Cholla Cactus Garden Nature Trail", d: "day5", t: "0.2 mi · sunrise among the jumping cholla", lat: 33.9248428, lng: -115.9293477, q: "Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA" },
+  { n: "2 · Arch Rock Nature Trail", d: "day5", t: "1.2 mi · natural granite arch", lat: 33.9899, lng: -116.02275, q: "Arch+Rock+Trail+Joshua+Tree+National+Park+CA" },
+  { n: "3 · Boy Scout Trail to Willow Hole", d: "day5", t: "6.9 mi · pick ONE big hike — this or Lost Palms Oasis", lat: 34.05708, lng: -116.17954, q: "Willow+Hole+Joshua+Tree+National+Park+CA" },
+  { n: "4 · Lost Palms Oasis Trail", d: "day5", t: "7.4 mi · pick ONE big hike — this or Boy Scout to Willow Hole", lat: 33.737, lng: -115.8107, q: "Lost+Palms+Oasis+Joshua+Tree+National+Park+CA" }
+];
+var map = L.map("map");
+L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "&copy; OpenStreetMap contributors" }).addTo(map);
+var layers = {};
+Object.keys(DAYLABEL).forEach(function (k) { layers[k] = L.layerGroup().addTo(map); });
+var bounds = [];
+STOPS.forEach(function (s) {
+  var num = s.n.split(" ")[0];
+  var icon = L.divIcon({ className: "", html: '<div class="pin" style="background:' + COLORS[s.d] + '">' + num + '</div>', iconSize: [24, 24], iconAnchor: [12, 12] });
+  var html = "<b>" + s.n + "</b><br>" + s.t + '<br><a href="https://www.google.com/maps/search/?api=1&query=' + s.q + '" target="_blank" rel="noopener">Open in Google Maps</a>';
+  L.marker([s.lat, s.lng], { icon: icon }).bindPopup(html).addTo(layers[s.d]);
+  bounds.push([s.lat, s.lng]);
+});
+var overlays = {};
+Object.keys(DAYLABEL).forEach(function (k) { overlays[DAYLABEL[k]] = layers[k]; });
+L.control.layers(null, overlays, { collapsed: window.innerWidth < 700 }).addTo(map);
+var legend = L.control({ position: "bottomleft" });
+legend.onAdd = function () {
+  var div = L.DomUtil.create("div", "legend");
+  div.innerHTML = Object.keys(DAYLABEL).map(function (k) { return '<span class="chip" style="background:' + COLORS[k] + '"></span>' + DAYLABEL[k]; }).join("<br>");
+  return div;
+};
+legend.addTo(map);
+map.fitBounds(bounds, { padding: [30, 30] });
+</script>
+</body>
+</html>
