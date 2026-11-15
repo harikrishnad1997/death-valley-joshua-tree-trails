@@ -27,6 +27,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - [Mon Dec 21 — Mojave National Preserve + transfer](#day-3)
 - [Tue Dec 22 — Joshua Tree west / central](#day-4)
 - [Wed Dec 23 — Joshua Tree east + the big hike](#day-5)
+- [Visitor centers](#visitor-centers)
 - [Not in the plan](#not-in-the-plan)
 - [Know before you go](#know-before-you-go)
 
@@ -241,6 +242,20 @@ The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike star
 - **Arch Rock Nature Trail** — a 1.2-mile loop to the park's best-known granite arch, a 30-foot span on the White Tank Campground trail. Good morning light.
 - **Boy Scout Trail to Willow Hole** — a 6.9-mile sandy-wash hike to Willow Hole, a grove of willows and palms in the desert. Pick **one** big hike: this, or Lost Palms Oasis.
 - **Lost Palms Oasis Trail** — a 7.4-mile hike in the park's south end to a palm oasis in a rocky canyon. Pick **one** big hike: this, or Boy Scout to Willow Hole. Carry plenty of water either way.
+
+## Visitor centers {#visitor-centers}
+
+Every center the trip actually needs — for the passport stamps, passes, water, and ranger info. Four of the five hold a stamp; Kelso Depot is closed, so it's listed only so you don't count on it.
+
+| Visitor center | Day | What for | Hours |
+| --- | --- | --- | --- |
+| [Furnace Creek Visitor Center](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | Sat Dec 19 (or any time Fri–Sun — you're based there) | Death Valley stamp, park film, passes, water, restrooms — the park's only full visitor center | Daily 8 AM–5 PM |
+| [Stovepipe Wells Ranger Station](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) | Sun Dec 20 — backup only | A second Death Valley stamp (Stovepipe Wells oval) if you miss Furnace Creek; also sells passes. Contact station, not a full center — hours vary and it isn't open every day, so call 760-786-3200 first | Varies — call ahead |
+| [Hole-in-the-Wall Information Center](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Information+Center+Mojave+National+Preserve+CA) | Mon Dec 21 | Mojave + Castle Mountains stamps — get them first, then the Rings Loop | Fri–Mon 10 AM–4 PM |
+| [Joshua Tree Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+Visitor+Center+6554+Park+Blvd+Joshua+Tree+CA) | Tue Dec 22, on the way in via the West Entrance | Joshua Tree stamp (dated stamp plus two picture stamps — a Joshua tree and a desert tortoise), maps, passes, cafe | Daily 7:30 AM–5 PM |
+| [Joshua Tree National Park Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+Visitor+Center+Twentynine+Palms+CA) | Alternate for the Joshua Tree stamp | Same stamp, at the park headquarters by the Oasis of Mara near the North Entrance — use it if you miss the downtown center | Daily 8 AM–5 PM |
+
+Not needed: the **Kelso Depot Visitor Center** is closed for repairs (exterior only, no stamp); the **Barstow headquarters** (weekdays ~8 AM–4:30 PM) is the backup Mojave stamp only if Hole-in-the-Wall is closed; **Cottonwood Visitor Center** (south entrance) and **Black Rock Nature Center** (Yucca Valley) aren't on the route.
 
 ## Not in the plan {#not-in-the-plan}
 
