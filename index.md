@@ -279,7 +279,8 @@ Vegetarian options at each stop of the trip. Inside Death Valley there are only 
 - **Crossroads Kitchen** (Resorts World, 3000 S Las Vegas Blvd, the Strip) — fully plant-based fine dining: Mediterranean-inspired small plates. [Map](https://www.google.com/maps/search/?api=1&query=Crossroads+Kitchen+3000+S+Las+Vegas+Blvd+Las+Vegas+NV)
 - **Tacotarian** (Planet Hollywood, 3663 Las Vegas Blvd S, the Strip) — plant-based Mexican tacos, in the Miracle Mile mall. [Map](https://www.google.com/maps/search/?api=1&query=Tacotarian+Planet+Hollywood+Las+Vegas+NV)
 - **True Food Kitchen** (The Forum Shops at Caesars, the Strip) — a full vegetarian and vegan menu alongside the regular dishes. [Map](https://www.google.com/maps/search/?api=1&query=True+Food+Kitchen+Forum+Shops+Caesars+Las+Vegas+NV)
-- **Siegel's Bagelmania** (252 Convention Center Dr, near the Strip) — New York-style bagels since 1989: lox bagel, everything bagel, cream cheese; open 6 AM–3:30 PM daily. [Map](https://www.google.com/maps/search/?api=1&query=Siegels+Bagelmania+252+Convention+Center+Dr+Las+Vegas+NV)
+- **Siegel's Bagelmania** (252 Convention Center Dr, near the Strip) — New York-style bagels since 1989: lox bagel, everything bagel, egg breakfast bagels, cream cheese; open 6 AM–3:30 PM daily. [Map](https://www.google.com/maps/search/?api=1&query=Siegels+Bagelmania+252+Convention+Center+Dr+Las+Vegas+NV)
+- **Subway** (all over Las Vegas, including the Strip) — cheap and quick: Veggie Delite, egg breakfast sandwiches in the morning. [Map](https://www.google.com/maps/search/?api=1&query=Subway+Las+Vegas+NV)
 
 **Death Valley — Sat Dec 19, Sun Dec 20**
 
