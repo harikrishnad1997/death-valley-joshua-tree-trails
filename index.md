@@ -6,7 +6,7 @@ title: Death Valley + Joshua Tree — Trail Links, Dec 19–23, 2026
 # Death Valley + Joshua Tree — Trail Links {#top}
 
 **Five park days · Sat Dec 19 – Wed Dec 23, 2026 · Death Valley → Mojave National Preserve → Joshua Tree**
-Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 25 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour.
+Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 28 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour.
 
 <style>
 .trip-fig { margin: 14px 0; }
@@ -36,7 +36,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - **Route:** Death Valley first, then Mojave National Preserve on the Mon Dec 21 transfer day, then Joshua Tree.
 - **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Stovepipe Wells ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
 - **Park entry:** $30 per vehicle per park, or the $80 America the Beautiful pass covering both.
-- **Passport stamps:** bring the Collector's Edition book. Death Valley and Joshua Tree stamps at their visitor centers; Mojave stamp at the Barstow headquarters desk on Wed Dec 23 (or Hole-in-the-Wall on Mon Dec 21 if it's open — verify by phone, 760-252-6104).
+- **Passport stamps:** bring the Collector's Edition book. Death Valley and Joshua Tree stamps at their visitor centers; the Mojave stamp is got at Hole-in-the-Wall on Mon Dec 21 (open Fri–Mon 10 AM–4 PM) — the same center also holds the Castle Mountains stamp. Barstow HQ is the backup if Hole-in-the-Wall is closed — verify by phone, 760-252-6104.
 
 ## Weather in the desert — live forecast {#weather}
 
@@ -176,17 +176,23 @@ Sleep: Stovepipe Wells — the west side, which sets up Monday's transfer.
 
 ## Mon Dec 21 — Mojave National Preserve + transfer {#day-3}
 
-The transfer day doubles as the Mojave day. South from Stovepipe Wells through Shoshone to Baker, then into the preserve: Kelso Dunes, the Kelso Depot exterior (visitor center closed), Amboy Crater and Roy's on Route 66, then CA-62 to Joshua Tree town, arriving ~6–7 PM. Wildrose Peak and Darwin Falls were dropped to make room for Mojave.
+The transfer day is now a full Mojave day — and a long one. Leave Stovepipe Wells by ~7 AM: south through Shoshone to Baker, then north on I-15 to Cima Road for Teutonia Peak, south through Kelso for the dunes and the depot exterior, east to Hole-in-the-Wall for the Rings Loop and the stamps, back west for the Lava Tube, then Amboy Crater as a viewpoint stop and Roy's on Route 66 before CA-62 to Joshua Tree town, arriving ~10–11 PM (estimate). The full 4.1-mile Amboy Crater loop no longer fits the day, so Amboy is a short stop, not a hike. One swap to know: the Lava Tube's light beams are a midday thing (11 AM–1 PM), and in this order you'll reach the tube in the late afternoon — if the beams matter to you, do the tube right after the dunes and Hole-in-the-Wall after it, at the cost of ~30 minutes of backtracking. Wildrose Peak and Darwin Falls were dropped to make room for Mojave.
 
 | Stop | Distance | Links |
 | --- | --- | --- |
+| Teutonia Peak Trail | 3.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/teutonia-peak-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Teutonia+Peak+Trail+Mojave+National+Preserve+CA) |
 | Kelso Dunes Trail | 3.0 mi | [AllTrails](https://www.alltrails.com/trail/us/california/kelso-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Kelso+Dunes+Mojave+National+Preserve+CA) |
-| Amboy Crater Trail | 4.1 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/amboy-crater) · [Map](https://www.google.com/maps/search/?api=1&query=Amboy+Crater+Mojave+National+Preserve+CA) |
+| Hole-in-the-Wall Rings Trail | 1.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/hole-in-the-wall-rings-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Hole-in-the-Wall+Mojave+National+Preserve+CA) |
+| Lava Tube Trail | 0.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lava-tube-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Lava+Tube+Trail+Mojave+National+Preserve+CA) |
+| Amboy Crater — viewpoint stop | — | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/amboy-crater) · [Map](https://www.google.com/maps/search/?api=1&query=Amboy+Crater+Mojave+National+Preserve+CA) |
 
 **The stops, in order:**
 
+- **Teutonia Peak Trail** — a 3.2-mile out-and-back through the Cima Dome Joshua tree forest to a rocky summit with panoramic views over the preserve. The forest burned in the 2020 Dome Fire, so it's recovering rather than the dense forest it was — the hike is still one of the few signed, maintained trails in the preserve.
 - **Kelso Dunes Trail** — a 3-mile out-and-back to the top of the dunes, the tallest in the Mojave. The dunes can "sing" — a low hum — when dry sand slides down the steep face, and the soft-sand climb is harder than it looks.
-- **Amboy Crater Trail** — an ancient volcanic cinder cone on Route 66. A short walk across old lava flows leads to the crater rim. Roy's Motel &amp; Cafe, the Route 66 landmark, is just up the road.
+- **Hole-in-the-Wall Rings Trail** — a 1.4-mile loop through Banshee Canyon, climbing out of the slot with two sets of metal rings bolted to the rock, past petroglyphs. Get the stamps at the information center first (open Fri–Mon 10 AM–4 PM) — it holds the cancellations for both Mojave National Preserve and Castle Mountains, which is why Wednesday's Barstow detour is gone.
+- **Lava Tube Trail** — a 0.5-mile walk down a metal staircase into a lava tube, lit by skylights in the ceiling. The road in (Aiken Mine Road) is rough, washboarded dirt — high clearance recommended, though the Rogue AWD should manage it slowly. Bring a flashlight.
+- **Amboy Crater — viewpoint stop** — an ancient volcanic cinder cone on Route 66. The full 4.1-mile loop doesn't fit this day anymore, so this is a short look from the trailhead area, not the hike. Roy's Motel &amp; Cafe, the Route 66 landmark, is just up the road.
 
 Sleep: Joshua Tree town / Yucca Valley.
 
@@ -220,7 +226,7 @@ Sleep: Joshua Tree town.
 
 ## Wed Dec 23 — Joshua Tree east + the big hike {#day-5}
 
-The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. Leave Joshua Tree town by ~1:30 PM for the Mojave stamp at the Barstow headquarters desk (~20–30 min, weekdays until ~4:30 PM), then drive to Las Vegas for the Wednesday night flight home.
+The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's a straight drive to Las Vegas for the Wednesday night flight home.
 
 | Stop | Distance | Links |
 | --- | --- | --- |
