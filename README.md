@@ -10,7 +10,7 @@ GitHub Pages site for the Dec 17–23, 2026 Death Valley + Joshua Tree trip: eve
 - **Packing checklist** — hiking gear (trekking poles included), December-desert clothing, water/food, tech, passport book and regional sticker sets, plus a food-to-pack group: bread, peanut butter + jam, trail mix, granola bars, fruit, coffee, Coke Zero.
 - **Places to eat** — vegetarian options at each stop: Las Vegas, Death Valley's resort restaurants, Baker, Joshua Tree town, and Pioneertown.
 - **Food to pack on the way** — Panera in Las Vegas, Albertsons and Walmart in Pahrump, Stater Bros in Yucca Valley, for sandwiches and trail-food supplies.
-- **Trip map** (`map.html`): Leaflet map with the stops numbered in visit order, color-coded by day, with a day filter. Map popup links also use coordinates.
+- **Trip map** (`map.html`): Leaflet map with the stops numbered in visit order, color-coded by day, with a day filter. Each day's section links to its own filtered map (`map.html?day=day1` … `day5`); the full map stays at `map.html`. Map popup links also use coordinates.
 - **Live weather** for Furnace Creek and Twentynine Palms (Open-Meteo), with the Dec 19–23 trip days highlighted.
 - No personal information on the public page (no booking confirmations, costs, passenger names, or flight details).
 

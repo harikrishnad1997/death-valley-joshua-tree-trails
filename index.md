@@ -132,7 +132,7 @@ Every stop on one map: 🔵 **Day 1** (Sat, Death Valley east/central) · 🟠 *
 
 ## Sat Dec 19 — Death Valley east / central {#day-1}
 
-The easy first day: the classic east-side viewpoints in one loop — Zabriskie Point's badlands at the start, Dante's View looking down 5,000 feet to Badwater, the salt flats, Artist's Palette, and Natural Bridge on the way back to Furnace Creek.
+The easy first day: the classic east-side viewpoints in one loop — Zabriskie Point's badlands at the start, Dante's View looking down 5,000 feet to Badwater, the salt flats, Artist's Palette, and Natural Bridge on the way back to Furnace Creek. See the [map for Saturday](map.html?day=day1).
 
 | Stop | Distance | Time | Start | Parking | Links |
 | --- | --- | --- | --- | --- | --- |
@@ -158,7 +158,7 @@ Sleep: Furnace Creek.
 
 ## Sun Dec 20 — Death Valley canyons {#day-2}
 
-The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Gower Gulch combine into one 4.3-mile loop — hike in through Golden Canyon, out through Gower Gulch — then Desolation and Mosaic Canyons, and the day ends at Mesquite Flat Sand Dunes for sunset (4:35 PM).
+The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Gower Gulch combine into one 4.3-mile loop — hike in through Golden Canyon, out through Gower Gulch — then Desolation and Mosaic Canyons, and the day ends at Mesquite Flat Sand Dunes for sunset (4:35 PM). See the [map for Sunday](map.html?day=day2).
 
 | Stop | Distance | Time | Start | Parking | Links |
 | --- | --- | --- | --- | --- | --- |
@@ -184,7 +184,7 @@ Sleep: Stovepipe Wells — the west side, which sets up Monday's transfer.
 
 ## Mon Dec 21 — Mojave National Preserve + transfer {#day-3}
 
-The transfer day is now a full Mojave day — and a long one. Leave Pahrump by ~6 AM: south through Shoshone to Baker, then north on I-15 to Cima Road for Teutonia Peak, south through Kelso for the dunes and the depot exterior, east to Hole-in-the-Wall for the Rings Loop and the stamps, back west for the Lava Tube, then Amboy Crater as a viewpoint stop and Roy's on Route 66 before CA-62 to Joshua Tree town, arriving ~9–10 PM (estimate). The full 4.1-mile Amboy Crater loop no longer fits the day, so Amboy is a short stop, not a hike. One swap to know: the Lava Tube's light beams are a midday thing (11 AM–1 PM), and in this order you'll reach the tube in the late afternoon — if the beams matter to you, do the tube right after the dunes and Hole-in-the-Wall after it, at the cost of ~30 minutes of backtracking. Wildrose Peak and Darwin Falls were dropped to make room for Mojave. Optional first stop: from Baker, back south on I-15 to Zzyzx for the Travelers Monument walk across Soda Lake — dry lakebed only, ~1 hr, and it pushes Teutonia to ~10 AM.
+The transfer day is now a full Mojave day — and a long one. Leave Pahrump by ~6 AM: south through Shoshone to Baker, then north on I-15 to Cima Road for Teutonia Peak, south through Kelso for the dunes and the depot exterior, east to Hole-in-the-Wall for the Rings Loop and the stamps, back west for the Lava Tube, then Amboy Crater as a viewpoint stop and Roy's on Route 66 before CA-62 to Joshua Tree town, arriving ~9–10 PM (estimate). The full 4.1-mile Amboy Crater loop no longer fits the day, so Amboy is a short stop, not a hike. One swap to know: the Lava Tube's light beams are a midday thing (11 AM–1 PM), and in this order you'll reach the tube in the late afternoon — if the beams matter to you, do the tube right after the dunes and Hole-in-the-Wall after it, at the cost of ~30 minutes of backtracking. Wildrose Peak and Darwin Falls were dropped to make room for Mojave. Optional first stop: from Baker, back south on I-15 to Zzyzx for the Travelers Monument walk across Soda Lake — dry lakebed only, ~1 hr, and it pushes Teutonia to ~10 AM. See the [map for Monday](map.html?day=day3).
 
 | Stop | Distance | Time | Start | Parking | Links |
 | --- | --- | --- | --- | --- | --- |
@@ -210,7 +210,7 @@ Sleep: Joshua Tree town / Yucca Valley.
 
 ## Tue Dec 22 — Joshua Tree west / central {#day-4}
 
-The full Joshua Tree day: Ryan Mountain first for the morning light, then the short loops — Hidden Valley, Barker Dam, Skull Rock, Split Rock, Hall of Horrors — and up to Keys View for the afternoon, with the steep, partly unmarked Inspiration Peak climb from the Keys View lot before sunset at Keys View itself (4:40 PM; start the climb by ~2:15 PM).
+The full Joshua Tree day: Ryan Mountain first for the morning light, then the short loops — Hidden Valley, Barker Dam, Skull Rock, Split Rock, Hall of Horrors — and up to Keys View for the afternoon, with the steep, partly unmarked Inspiration Peak climb from the Keys View lot before sunset at Keys View itself (4:40 PM; start the climb by ~2:15 PM). See the [map for Tuesday](map.html?day=day4).
 
 | Stop | Distance | Time | Start | Parking | Links |
 | --- | --- | --- | --- | --- | --- |
@@ -240,7 +240,7 @@ Sleep: Joshua Tree town.
 
 ## Wed Dec 23 — Joshua Tree east + the big hike {#day-5}
 
-The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's Pioneertown for a late lunch on Mane Street, then the drive to Las Vegas for the Wednesday night flight home.
+The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's Pioneertown for a late lunch on Mane Street, then the drive to Las Vegas for the Wednesday night flight home. See the [map for Wednesday](map.html?day=day5).
 
 | Stop | Distance | Time | Start | Parking | Links |
 | --- | --- | --- | --- | --- | --- |
