@@ -30,6 +30,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - [Visitor centers](#visitor-centers)
 - [Not in the plan](#not-in-the-plan)
 - [Know before you go](#know-before-you-go)
+- [Packing checklist](#packing-checklist)
 
 ## Trip at a glance {#trip-at-a-glance}
 
@@ -268,6 +269,51 @@ Not needed: the **Kelso Depot Visitor Center** is closed for repairs (exterior o
 - **Water and gas are scarce in Death Valley** — stock up in Las Vegas or Pahrump on Friday night.
 - **Friday's drive arrives ~midnight** — the Furnace Creek hotel must allow very late check-in.
 - **No toll roads on this loop** — decline the toll pass at the rental counter.
+
+## Packing checklist {#packing-checklist}
+
+December desert: mild days, cold mornings and nights, no cell service in the parks, and water that has to be carried or refilled at the visitor centers.
+
+**Hiking gear**
+
+- [ ] Broken-in hiking boots
+- [ ] Camp shoes or sandals for the evenings
+- [ ] Daypack
+- [ ] Trekking poles
+- [ ] Headlamp or flashlight — the Lava Tube is dark inside, and Monday runs late
+
+**Clothing**
+
+- [ ] Layers: base layer, fleece or insulated mid-layer, warm jacket
+- [ ] Wind / rain shell for the desert wind
+- [ ] Warm hat and gloves — for the Cholla sunrise and the Mesquite Dunes and Keys View sunsets
+- [ ] Sun hat and sunglasses
+- [ ] Extra socks
+
+**Water, food, sun**
+
+- [ ] Water bottles — carry more than you think; refill at Furnace Creek, Stovepipe Wells, and the visitor centers
+- [ ] Trail snacks and food for the long Monday drive through the preserve
+- [ ] Sunscreen and lip balm — the desert sun is strong even in December
+
+**Tech and navigation**
+
+- [ ] Phone, charger, and power bank
+- [ ] Offline maps downloaded in AllTrails+ before leaving Las Vegas
+- [ ] Laptop and charger — Friday is a remote-work day in Las Vegas
+- [ ] Car charger
+
+**Passport and documents**
+
+- [ ] Collector's Edition passport book
+- [ ] Regional sticker sets: 1990 (Death Valley), 1999 (Joshua Tree), 2007 (Mojave)
+- [ ] ID and payment card — Death Valley is cashless
+
+**Car and safety**
+
+- [ ] First-aid kit and blister care
+- [ ] Any personal medication
+- [ ] A paper map as a backup — no service in the parks
 
 [Back to top](#top)
 
