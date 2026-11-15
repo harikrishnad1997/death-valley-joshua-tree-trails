@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Death Valley + Joshua Tree — Trail Links, Dec 19–23, 2026
+title: Death Valley + Joshua Tree Trip, Dec 19–23, 2026
 ---
 
-# Death Valley + Joshua Tree — Trail Links {#top}
+# Death Valley + Joshua Tree Trip {#top}
 
 **Five park days · Sat Dec 19 – Wed Dec 23, 2026 · Death Valley → Mojave National Preserve → Joshua Tree**
 Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 28 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour.

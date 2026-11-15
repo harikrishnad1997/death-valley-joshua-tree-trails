@@ -1,4 +1,4 @@
-# Death Valley + Joshua Tree — Trail Links
+# Death Valley + Joshua Tree Trip
 
 GitHub Pages site for the Dec 17–23, 2026 Death Valley + Joshua Tree trip: every trail link (AllTrails + Google Maps), grouped by day.
 
