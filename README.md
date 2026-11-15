@@ -2,10 +2,10 @@
 
 GitHub Pages site for the Dec 17–23, 2026 Death Valley + Joshua Tree trip: every trail link (AllTrails + Google Maps), grouped by day.
 
-- **28 stops in the plan, all with a verified AllTrails trail page**, plus Ubehebe Crater as an optional Sunday detour — 29 map pins in total.
+- **28 stops in the plan, all with a verified AllTrails trail page**, plus Ubehebe Crater as an optional Sunday detour and Travelers Monument as an optional Monday stop — 30 map pins in total.
 - One table per day (Sat Dec 19 – Wed Dec 23): stop, AllTrails distance, hike time, ideal start time, parking lot, and AllTrails + Google Maps links, with a short description of each stop underneath. The visitor center stop is a row in each day's table (Furnace Creek Sat, Stovepipe Wells backup Sun, Hole-in-the-Wall Mon, Joshua Tree Tue). Sunrise/sunset rows also carry the sunrise/sunset clock time in the stop name.
 - Google Maps links use exact trailhead coordinates (Nov 14 fix — the name-based links resolved to the wrong places for several trailheads, e.g. Desolation Canyon, Kelso Dunes, Amboy Crater).
-- **Mon Dec 21 is a full Mojave National Preserve day** on the transfer between the parks: Teutonia Peak, Kelso Dunes, Hole-in-the-Wall Rings Trail (passport stamps for Mojave + Castle Mountains), Lava Tube, and Amboy Crater as a viewpoint stop. The full Amboy loop doesn't fit the day.
+- **Mon Dec 21 is a full Mojave National Preserve day** on the transfer between the parks: Teutonia Peak, Kelso Dunes, Hole-in-the-Wall Rings Trail (passport stamps for Mojave + Castle Mountains), Lava Tube, and Amboy Crater as a viewpoint stop — plus an optional first detour to the Travelers Monument on Soda Lake (dry lakebed only). The full Amboy loop doesn't fit the day.
 - **Visitor centers section** — every center the trip needs, with hours and a Food inside? column (only the downtown Joshua Tree center has a café inside): Furnace Creek (Death Valley stamp), Stovepipe Wells Ranger Station (backup stamp), Hole-in-the-Wall (Mojave + Castle Mountains stamps), Joshua Tree Visitor Center and the Twentynine Palms center (Joshua Tree stamp).
 - **Packing checklist** — hiking gear (trekking poles included), December-desert clothing, water/food, tech, passport book and regional sticker sets, plus a food-to-pack group: bread, peanut butter + jam, trail mix, granola bars, fruit, coffee, Coke Zero.
 - **Places to eat** — vegetarian options at each stop: Las Vegas, Death Valley's resort restaurants, Baker, Joshua Tree town, and Pioneertown.

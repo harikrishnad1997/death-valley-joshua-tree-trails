@@ -6,7 +6,7 @@ title: Death Valley + Joshua Tree Trip, Dec 19–23, 2026
 # Death Valley + Joshua Tree Trip {#top}
 
 **Five park days · Sat Dec 19 – Wed Dec 23, 2026 · Death Valley → Mojave National Preserve → Joshua Tree**
-Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 28 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour.
+Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 28 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour and Travelers Monument as an optional Monday stop.
 
 <style>
 .trip-fig { margin: 14px 0; }
@@ -184,10 +184,11 @@ Sleep: Stovepipe Wells — the west side, which sets up Monday's transfer.
 
 ## Mon Dec 21 — Mojave National Preserve + transfer {#day-3}
 
-The transfer day is now a full Mojave day — and a long one. Leave Pahrump by ~6 AM: south through Shoshone to Baker, then north on I-15 to Cima Road for Teutonia Peak, south through Kelso for the dunes and the depot exterior, east to Hole-in-the-Wall for the Rings Loop and the stamps, back west for the Lava Tube, then Amboy Crater as a viewpoint stop and Roy's on Route 66 before CA-62 to Joshua Tree town, arriving ~9–10 PM (estimate). The full 4.1-mile Amboy Crater loop no longer fits the day, so Amboy is a short stop, not a hike. One swap to know: the Lava Tube's light beams are a midday thing (11 AM–1 PM), and in this order you'll reach the tube in the late afternoon — if the beams matter to you, do the tube right after the dunes and Hole-in-the-Wall after it, at the cost of ~30 minutes of backtracking. Wildrose Peak and Darwin Falls were dropped to make room for Mojave.
+The transfer day is now a full Mojave day — and a long one. Leave Pahrump by ~6 AM: south through Shoshone to Baker, then north on I-15 to Cima Road for Teutonia Peak, south through Kelso for the dunes and the depot exterior, east to Hole-in-the-Wall for the Rings Loop and the stamps, back west for the Lava Tube, then Amboy Crater as a viewpoint stop and Roy's on Route 66 before CA-62 to Joshua Tree town, arriving ~9–10 PM (estimate). The full 4.1-mile Amboy Crater loop no longer fits the day, so Amboy is a short stop, not a hike. One swap to know: the Lava Tube's light beams are a midday thing (11 AM–1 PM), and in this order you'll reach the tube in the late afternoon — if the beams matter to you, do the tube right after the dunes and Hole-in-the-Wall after it, at the cost of ~30 minutes of backtracking. Wildrose Peak and Darwin Falls were dropped to make room for Mojave. Optional first stop: from Baker, back south on I-15 to Zzyzx for the Travelers Monument walk across Soda Lake — dry lakebed only, ~1 hr, and it pushes Teutonia to ~10 AM.
 
 | Stop | Distance | Time | Start | Parking | Links |
 | --- | --- | --- | --- | --- | --- |
+| Travelers Monument — **OPTIONAL** | ~2 mi round trip | ~1 hr | ~8:30 AM | [Zzyzx lot](https://www.google.com/maps/search/?api=1&query=35.14279,-116.10474) | [Map](https://www.google.com/maps/search/?api=1&query=35.13084,-116.09527) |
 | Teutonia Peak Trail | 3.2 mi | 1.5–2 hr | ~9:00 AM | [pullout on Cima Rd](https://www.google.com/maps/search/?api=1&query=35.31625,-115.5525) | [AllTrails](https://www.alltrails.com/trail/us/california/teutonia-peak-trail) · [Map](https://www.google.com/maps/search/?api=1&query=35.31625,-115.5525) |
 | Kelso Dunes Trail | 3.0 mi | 1 h 20 min (mirror) | ~12:00 PM | [Kelso Dunes lot](https://www.google.com/maps/search/?api=1&query=34.89235,-115.69906) | [AllTrails](https://www.alltrails.com/trail/us/california/kelso-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=34.89235,-115.69906) |
 | Hole-in-the-Wall Information Center (stamps) | — | ~15 min | ~2:00 PM | [visitor center lot](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) | [Map](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) |
@@ -198,6 +199,7 @@ The transfer day is now a full Mojave day — and a long one. Leave Pahrump by ~
 
 **The stops, in order:**
 
+- **Travelers Monument — OPTIONAL** — a pile of rocks on the dry Soda Lake at mile ~100 of the Old Mojave Road, just south of Baker. Park at Zzyzx (Desert Studies Center, off I-15) and walk ~1 mile across the lakebed — the tradition is to carry a rock across and add it to the pile, and there's a plaque with a secret message hidden in the rocks. About an hour all in, only if the lakebed is dry; skip it if it's wet. Doing it pushes Teutonia Peak to ~10 AM.
 - **Teutonia Peak Trail** — a 3.2-mile out-and-back through the Cima Dome Joshua tree forest to a rocky summit with panoramic views over the preserve. The forest burned in the 2020 Dome Fire, so it's recovering rather than the dense forest it was — the hike is still one of the few signed, maintained trails in the preserve.
 - **Kelso Dunes Trail** — a 3-mile out-and-back to the top of the dunes, the tallest in the Mojave. The dunes can "sing" — a low hum — when dry sand slides down the steep face, and the soft-sand climb is harder than it looks.
 - **Hole-in-the-Wall Rings Trail** — a 1.4-mile loop through Banshee Canyon, climbing out of the slot with two sets of metal rings bolted to the rock, past petroglyphs. Get the stamps at the information center first (open Fri–Mon 10 AM–4 PM) — it holds the cancellations for both Mojave National Preserve and Castle Mountains, which is why Wednesday's Barstow detour is gone.
