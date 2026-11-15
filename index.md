@@ -276,7 +276,7 @@ Vegetarian options at each stop of the trip. Inside Death Valley there are only 
 
 **Las Vegas — Thu Dec 17, Fri Dec 18, Wed Dec 23**
 
-- **VegeNation** (616 E Carson Ave, Downtown) — fully vegan comfort food: smashed burgers, loaded nachos, grain bowls. The city's top-rated vegan spot (4.6★). [Map](https://www.google.com/maps/search/?api=1&query=VegeNation+616+E+Carson+Ave+Las+Vegas+NV)
+- **Crossroads Kitchen** (Resorts World, 3000 S Las Vegas Blvd, the Strip) — fully plant-based fine dining: Mediterranean-inspired small plates. [Map](https://www.google.com/maps/search/?api=1&query=Crossroads+Kitchen+3000+S+Las+Vegas+Blvd+Las+Vegas+NV)
 - **Tacotarian** (Planet Hollywood, 3663 Las Vegas Blvd S, the Strip) — plant-based Mexican tacos, in the Miracle Mile mall. [Map](https://www.google.com/maps/search/?api=1&query=Tacotarian+Planet+Hollywood+Las+Vegas+NV)
 - **True Food Kitchen** (The Forum Shops at Caesars, the Strip) — a full vegetarian and vegan menu alongside the regular dishes. [Map](https://www.google.com/maps/search/?api=1&query=True+Food+Kitchen+Forum+Shops+Caesars+Las+Vegas+NV)
 
