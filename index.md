@@ -253,6 +253,8 @@ The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike star
 document.querySelectorAll('a[href^="http"]').forEach(function (a) { a.target = "_blank"; a.rel = "noopener"; });
 </script>
 
+<a href="#top" title="Back to top" style="position:fixed; right:16px; bottom:16px; z-index:99; background:#1d6fb8; color:#fff; padding:10px 16px; border-radius:24px; text-decoration:none; font-size:14px; font-weight:600; box-shadow:0 2px 6px rgba(0,0,0,.3);">↑ Top</a>
+
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   document.querySelectorAll('a[href]').forEach(function (a) {
