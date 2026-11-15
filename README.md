@@ -3,17 +3,17 @@
 GitHub Pages site for the Dec 17–23, 2026 Death Valley + Joshua Tree trip: every trail link (AllTrails + Google Maps), grouped by day.
 
 - **28 stops in the plan, all with a verified AllTrails trail page**, plus Ubehebe Crater as an optional Sunday detour — 29 map pins in total.
-- One table per day (Sat Dec 19 – Wed Dec 23): trail name, AllTrails distance, AllTrails link + Google Maps link, with a short description of each stop underneath. Sunrise/sunset rows also carry the AllTrails hike time and the sunrise/sunset clock time. A Parking line under each table lists the day's trailhead lots in visit order, with the lots that fill up flagged.
+- One table per day (Sat Dec 19 – Wed Dec 23): stop, AllTrails distance, hike time, ideal start time, parking lot, and AllTrails + Google Maps links, with a short description of each stop underneath. The visitor center stop is a row in each day's table (Furnace Creek Sat, Stovepipe Wells backup Sun, Hole-in-the-Wall Mon, Joshua Tree Tue). Sunrise/sunset rows also carry the sunrise/sunset clock time in the stop name.
 - Google Maps links use exact trailhead coordinates (Nov 14 fix — the name-based links resolved to the wrong places for several trailheads, e.g. Desolation Canyon, Kelso Dunes, Amboy Crater).
 - **Mon Dec 21 is a full Mojave National Preserve day** on the transfer between the parks: Teutonia Peak, Kelso Dunes, Hole-in-the-Wall Rings Trail (passport stamps for Mojave + Castle Mountains), Lava Tube, and Amboy Crater as a viewpoint stop. The full Amboy loop doesn't fit the day.
-- **Visitor centers section** — every center the trip needs, with hours: Furnace Creek (Death Valley stamp), Stovepipe Wells Ranger Station (backup stamp), Hole-in-the-Wall (Mojave + Castle Mountains stamps), Joshua Tree Visitor Center and the Twentynine Palms center (Joshua Tree stamp).
-- **Packing checklist** — hiking gear (trekking poles included), December-desert clothing, water/food, tech, passport book and regional sticker sets, plus a food-to-pack group: bread, peanut butter + jam, trail mix, granola bars, fruit.
+- **Visitor centers section** — every center the trip needs, with hours and a Food inside? column (only the downtown Joshua Tree center has a café inside): Furnace Creek (Death Valley stamp), Stovepipe Wells Ranger Station (backup stamp), Hole-in-the-Wall (Mojave + Castle Mountains stamps), Joshua Tree Visitor Center and the Twentynine Palms center (Joshua Tree stamp).
+- **Packing checklist** — hiking gear (trekking poles included), December-desert clothing, water/food, tech, passport book and regional sticker sets, plus a food-to-pack group: bread, peanut butter + jam, trail mix, granola bars, fruit, coffee, Coke Zero.
 - **Places to eat** — vegetarian options at each stop: Las Vegas, Death Valley's resort restaurants, Baker, and Joshua Tree town.
 - **Food to pack on the way** — Panera in Las Vegas, Albertsons and Walmart in Pahrump, Stater Bros in Yucca Valley, for sandwiches and trail-food supplies.
 - **Trip map** (`map.html`): Leaflet map with the stops numbered in visit order, color-coded by day, with a day filter. Map popup links also use coordinates.
 - **Live weather** for Furnace Creek and Twentynine Palms (Open-Meteo), with the Dec 19–23 trip days highlighted.
 - No personal information on the public page (no booking confirmations, costs, passenger names, or flight details).
 
-Distances are AllTrails' figures unless noted. Trail list source: `workspace/goals/death-valley-and-joshua-tree-trip/files/trail-links.json`.
+Distances and hike times are AllTrails' figures unless noted — where AllTrails lists no hike time, the cell gives the best available figure and tags its source (mirror = AllTrails data on another site, NPS = park service, guides = hiking guides). Start times are estimates built from the hike times and the day's anchors (sunrise/sunset, visitor center hours). Trail list source: `workspace/goals/death-valley-and-joshua-tree-trip/files/trail-links.json`.
 
 Site files: `index.md` (the page), `map.html` (the Leaflet map), `_config.yml` (Cayman theme).
