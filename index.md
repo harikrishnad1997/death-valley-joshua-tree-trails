@@ -6,7 +6,7 @@ title: Death Valley + Joshua Tree — Trail Links, Dec 19–23, 2026
 # Death Valley + Joshua Tree — Trail Links {#top}
 
 **Five park days · Sat Dec 19 – Wed Dec 23, 2026 · Death Valley → Mojave National Preserve → Joshua Tree**
-Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. 24 of the 25 stops have an AllTrails trail page; the one that doesn't is marked below.
+Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 25 stops have an AllTrails trail page.
 
 <style>
 .trip-fig { margin: 14px 0; }
@@ -137,7 +137,7 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 | Badwater Salt Flat Trail | 1.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badwater-basin-salt-flats-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA) |
 | Artist's Palette / Artists Drive | 0.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/artists-palette-overlook) · [Map](https://www.google.com/maps/search/?api=1&query=Artist%27s+Palette+Death+Valley+National+Park+CA) |
 | Natural Bridge Canyon Trail | 1.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/death-valley-natural-bridge-road) · [Map](https://www.google.com/maps/search/?api=1&query=Natural+Bridge+Canyon+Death+Valley+National+Park+CA) |
-| Harmony Borax Works Interpretive Trail | 0.4 mi | No AllTrails trail page — [Map](https://www.google.com/maps/search/?api=1&query=Harmony+Borax+Works+Death+Valley+National+Park+CA) |
+| Harmony Borax Works Interpretive Trail | 0.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/harmony-borax-works) · [Map](https://www.google.com/maps/search/?api=1&query=Harmony+Borax+Works+Death+Valley+National+Park+CA) |
 
 **The stops, in order:**
 
@@ -248,3 +248,12 @@ The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike star
 - **No toll roads on this loop** — decline the toll pass at the rental counter.
 
 [Back to top](#top)
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    var h = a.getAttribute('href');
+    if (h && h.charAt(0) !== '#') { a.setAttribute('target', '_blank'); a.setAttribute('rel', 'noopener'); }
+  });
+});
+</script>
