@@ -6,7 +6,7 @@ title: Death Valley + Joshua Tree — Trail Links, Dec 19–23, 2026
 # Death Valley + Joshua Tree — Trail Links {#top}
 
 **Five park days · Sat Dec 19 – Wed Dec 23, 2026 · Death Valley → Mojave National Preserve → Joshua Tree**
-Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 25 stops have an AllTrails trail page.
+Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 25 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour.
 
 <style>
 .trip-fig { margin: 14px 0; }
@@ -161,6 +161,7 @@ The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Go
 | Desolation Canyon Trail | 3.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/desolation-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Desolation+Canyon+Death+Valley+National+Park+CA) |
 | Mosaic Canyon Trail | 3.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mosaic-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mosaic+Canyon+Death+Valley+National+Park+CA) |
 | Mesquite Flat Sand Dunes Trail | 2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA) |
+| Ubehebe Crater — **OPTIONAL** | 1.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/ubehebe-and-little-hebe-crater-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA) |
 
 **The stops, in order:**
 
@@ -169,6 +170,7 @@ The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Go
 - **Desolation Canyon Trail** — a quieter badlands canyon with colorful walls and slot-like narrows, and far fewer people than Golden Canyon.
 - **Mosaic Canyon Trail** — polished marble narrows: smooth white and tan walls that tighten after about a mile. Can be slippery when wet.
 - **Mesquite Flat Sand Dunes** — the sunset stop. The tallest dune is about 100 feet; the sand is soft, so allow extra time for the walk in from the Stovepipe Wells side.
+- **Ubehebe Crater — OPTIONAL** — a half-mile-wide volcanic crater, 500–777 feet deep, with a 1.8-mile rim loop that takes about an hour. It's ~32 miles (about 45 minutes each way) north of Stovepipe Wells, so it only fits if you drop Desolation Canyon — go after Mosaic Canyon and still make the dunes for sunset.
 
 Sleep: Stovepipe Wells — the west side, which sets up Monday's transfer.
 
@@ -237,8 +239,7 @@ The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike star
 ## Not in the plan {#not-in-the-plan}
 
 - **Telescope Peak** (12.2 mi) — a full day on its own, can be snowed in in December.
-- **Ubehebe Crater** — far north end of Death Valley, a half-day detour from Stovepipe Wells.
-- Both stay cut unless the trip extends or a day is swapped.
+- It stays cut unless the trip extends or a day is swapped. (Ubehebe Crater moved up to an optional Sunday detour — see Sun Dec 20.)
 
 ## Know before you go {#know-before-you-go}
 
