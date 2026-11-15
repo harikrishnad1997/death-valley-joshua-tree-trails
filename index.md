@@ -136,7 +136,7 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Zabriskie Point / Badlands Loop 🌅 6:54 AM | 2.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badlands-loop-via-zabriskie-point-trail-and-gower-gulch-path) · [Map](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA) |
+| Zabriskie Point / Badlands Loop 🌅 6:54 AM | 2.6 mi · 1–1.5 hr | [AllTrails](https://www.alltrails.com/trail/us/california/badlands-loop-via-zabriskie-point-trail-and-gower-gulch-path) · [Map](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA) |
 | Dante's View | 0.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/dantes-view-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Dante%27s+View+Death+Valley+National+Park+CA) |
 | Badwater Salt Flat Trail | 1.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badwater-basin-salt-flats-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA) |
 | Artist's Palette / Artists Drive | 0.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/artists-palette-overlook) · [Map](https://www.google.com/maps/search/?api=1&query=Artist%27s+Palette+Death+Valley+National+Park+CA) |
@@ -164,7 +164,7 @@ The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Go
 | Gower Gulch Loop (Golden Canyon → Gower Gulch) | 4.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/gower-gulch-loop-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA) |
 | Desolation Canyon Trail | 3.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/desolation-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Desolation+Canyon+Death+Valley+National+Park+CA) |
 | Mosaic Canyon Trail | 3.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mosaic-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mosaic+Canyon+Death+Valley+National+Park+CA) |
-| Mesquite Flat Sand Dunes Trail 🌇 4:35 PM | 2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA) |
+| Mesquite Flat Sand Dunes Trail 🌇 4:35 PM | 2 mi · 0.5–1 hr | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA) |
 | Ubehebe Crater — **OPTIONAL** | 1.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/ubehebe-and-little-hebe-crater-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA) |
 
 **The stops, in order:**
@@ -212,8 +212,8 @@ The full Joshua Tree day: Ryan Mountain first for the morning light, then the sh
 | Skull Rock Trail | 1.7 mi | [AllTrails](https://www.alltrails.com/trail/us/california/skull-rock-nature-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Skull+Rock+Joshua+Tree+National+Park+CA) |
 | Split Rock Loop Trail | 2.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/split-rock-loop--4) · [Map](https://www.google.com/maps/search/?api=1&query=Split+Rock+Joshua+Tree+National+Park+CA) |
 | Hall of Horrors | — | [AllTrails](https://www.alltrails.com/trail/us/california/hall-of-horrors) · [Map](https://www.google.com/maps/search/?api=1&query=Hall+of+Horrors+Joshua+Tree+National+Park+CA) |
-| Inspiration Peak (from Keys View) | 1.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/inspiration-peak-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA) |
-| Keys View 🌇 4:40 PM | 0.1 mi | [AllTrails](https://www.alltrails.com/trail/us/california/keys-view) · [Map](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA) |
+| Inspiration Peak (from Keys View) | 1.9 mi · avg ~1 h 12 min | [AllTrails](https://www.alltrails.com/trail/us/california/inspiration-peak-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA) |
+| Keys View 🌇 4:40 PM | 0.1 mi · 2 min | [AllTrails](https://www.alltrails.com/trail/us/california/keys-view) · [Map](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA) |
 
 **The stops, in order:**
 
@@ -234,7 +234,7 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Cholla Cactus Garden Nature Trail 🌅 6:46 AM | 0.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/cholla-cactus-garden) · [Map](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA) |
+| Cholla Cactus Garden Nature Trail 🌅 6:46 AM | 0.2 mi · 0.5–1 hr | [AllTrails](https://www.alltrails.com/trail/us/california/cholla-cactus-garden) · [Map](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA) |
 | Arch Rock Nature Trail | 1.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/arch-rock-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Arch+Rock+Trail+Joshua+Tree+National+Park+CA) |
 | Boy Scout Trail to Willow Hole | 6.9 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=Willow+Hole+Joshua+Tree+National+Park+CA) |
 | Lost Palms Oasis Trail | 7.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=Lost+Palms+Oasis+Joshua+Tree+National+Park+CA) |
