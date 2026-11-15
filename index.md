@@ -136,7 +136,7 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Zabriskie Point / Badlands Loop | 2.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badlands-loop-via-zabriskie-point-trail-and-gower-gulch-path) · [Map](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA) |
+| Zabriskie Point / Badlands Loop 🌅 6:54 AM | 2.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badlands-loop-via-zabriskie-point-trail-and-gower-gulch-path) · [Map](https://www.google.com/maps/search/?api=1&query=Zabriskie+Point+Death+Valley+National+Park+CA) |
 | Dante's View | 0.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/dantes-view-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Dante%27s+View+Death+Valley+National+Park+CA) |
 | Badwater Salt Flat Trail | 1.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/badwater-basin-salt-flats-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Badwater+Basin+Death+Valley+National+Park+CA) |
 | Artist's Palette / Artists Drive | 0.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/artists-palette-overlook) · [Map](https://www.google.com/maps/search/?api=1&query=Artist%27s+Palette+Death+Valley+National+Park+CA) |
@@ -145,7 +145,7 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 
 **The stops, in order:**
 
-- **Zabriskie Point / Badlands Loop** — the golden badlands ridges at the park's east edge, with Manly Beacon in the middle distance. The loop climbs into the badlands for the classic view; best in morning light.
+- **Zabriskie Point / Badlands Loop** — the golden badlands ridges at the park's east edge, with Manly Beacon in the middle distance. The loop climbs into the badlands for the classic view; best in morning light. Sunrise is 6:54 AM — the plan reaches it mid-morning after the visitor center opens at 8 AM, so the true sunrise would mean being here by ~6:40 AM first.
 - **Dante's View** — a paved viewpoint more than 5,000 feet above Badwater Basin. Look straight down at the salt flats and across the valley to Telescope Peak.
 - **Badwater Salt Flat** — walk out onto the salt polygons at the lowest point in North America, 282 feet below sea level. Flat and easy, but carry water even in December.
 - **Artist's Palette / Artists Drive** — a one-way scenic drive through hills stained pink, green, and purple by minerals, with a short walk to the palette viewpoint itself.
@@ -156,7 +156,7 @@ Sleep: Furnace Creek.
 
 ## Sun Dec 20 — Death Valley canyons {#day-2}
 
-The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Gower Gulch combine into one 4.3-mile loop — hike in through Golden Canyon, out through Gower Gulch — then Desolation and Mosaic Canyons, and the day ends at Mesquite Flat Sand Dunes for sunset.
+The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Gower Gulch combine into one 4.3-mile loop — hike in through Golden Canyon, out through Gower Gulch — then Desolation and Mosaic Canyons, and the day ends at Mesquite Flat Sand Dunes for sunset (4:35 PM).
 
 | Stop | Distance | Links |
 | --- | --- | --- |
@@ -164,7 +164,7 @@ The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Go
 | Gower Gulch Loop (Golden Canyon → Gower Gulch) | 4.3 mi | [AllTrails](https://www.alltrails.com/trail/us/california/gower-gulch-loop-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Gower+Gulch+Death+Valley+National+Park+CA) |
 | Desolation Canyon Trail | 3.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/desolation-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Desolation+Canyon+Death+Valley+National+Park+CA) |
 | Mosaic Canyon Trail | 3.6 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mosaic-canyon-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mosaic+Canyon+Death+Valley+National+Park+CA) |
-| Mesquite Flat Sand Dunes Trail | 2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA) |
+| Mesquite Flat Sand Dunes Trail 🌇 4:35 PM | 2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA) |
 | Ubehebe Crater — **OPTIONAL** | 1.8 mi | [AllTrails](https://www.alltrails.com/trail/us/california/ubehebe-and-little-hebe-crater-trail) · [Map](https://www.google.com/maps/search/?api=1&query=Ubehebe+Crater+Death+Valley+National+Park+CA) |
 
 **The stops, in order:**
@@ -173,7 +173,7 @@ The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Go
 - **Gower Gulch Loop** — the way back out: a 4.3-mile loop returning through a narrow badlands gorge. The wash floor can be rough after rain.
 - **Desolation Canyon Trail** — a quieter badlands canyon with colorful walls and slot-like narrows, and far fewer people than Golden Canyon.
 - **Mosaic Canyon Trail** — polished marble narrows: smooth white and tan walls that tighten after about a mile. Can be slippery when wet.
-- **Mesquite Flat Sand Dunes** — the sunset stop. The tallest dune is about 100 feet; the sand is soft, so allow extra time for the walk in from the Stovepipe Wells side.
+- **Mesquite Flat Sand Dunes** — the sunset stop: sunset 4:35 PM. Be on the dunes by ~4:00 PM for the golden-hour light — start the walk in by ~3:45 PM, since the sand is soft and the walk takes extra time. The tallest dune is about 100 feet.
 - **Ubehebe Crater — OPTIONAL** — a half-mile-wide volcanic crater, 500–777 feet deep, with a 1.8-mile rim loop that takes about an hour. It's ~32 miles (about 45 minutes each way) north of Stovepipe Wells, so it only fits if you drop Desolation Canyon — go after Mosaic Canyon and still make the dunes for sunset.
 
 Sleep: Stovepipe Wells — the west side, which sets up Monday's transfer.
@@ -202,7 +202,7 @@ Sleep: Joshua Tree town / Yucca Valley.
 
 ## Tue Dec 22 — Joshua Tree west / central {#day-4}
 
-The full Joshua Tree day: Ryan Mountain first for the morning light, then the short loops — Hidden Valley, Barker Dam, Skull Rock, Split Rock, Hall of Horrors — and up to Keys View for the afternoon, with the steep, partly unmarked Inspiration Peak climb from the Keys View lot before sunset at Keys View itself.
+The full Joshua Tree day: Ryan Mountain first for the morning light, then the short loops — Hidden Valley, Barker Dam, Skull Rock, Split Rock, Hall of Horrors — and up to Keys View for the afternoon, with the steep, partly unmarked Inspiration Peak climb from the Keys View lot before sunset at Keys View itself (4:40 PM; start the climb by ~3:00 PM).
 
 | Stop | Distance | Links |
 | --- | --- | --- |
@@ -213,7 +213,7 @@ The full Joshua Tree day: Ryan Mountain first for the morning light, then the sh
 | Split Rock Loop Trail | 2.5 mi | [AllTrails](https://www.alltrails.com/trail/us/california/split-rock-loop--4) · [Map](https://www.google.com/maps/search/?api=1&query=Split+Rock+Joshua+Tree+National+Park+CA) |
 | Hall of Horrors | — | [AllTrails](https://www.alltrails.com/trail/us/california/hall-of-horrors) · [Map](https://www.google.com/maps/search/?api=1&query=Hall+of+Horrors+Joshua+Tree+National+Park+CA) |
 | Inspiration Peak (from Keys View) | 1.9 mi | [AllTrails](https://www.alltrails.com/trail/us/california/inspiration-peak-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Mount+Inspiration+Joshua+Tree+National+Park+CA) |
-| Keys View | 0.1 mi | [AllTrails](https://www.alltrails.com/trail/us/california/keys-view) · [Map](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA) |
+| Keys View 🌇 4:40 PM | 0.1 mi | [AllTrails](https://www.alltrails.com/trail/us/california/keys-view) · [Map](https://www.google.com/maps/search/?api=1&query=Keys+View+Joshua+Tree+National+Park+CA) |
 
 **The stops, in order:**
 
@@ -223,25 +223,25 @@ The full Joshua Tree day: Ryan Mountain first for the morning light, then the sh
 - **Skull Rock Trail** — a 1.7-mile walk along Park Boulevard to the skull-shaped boulder, with rock piles and desert gardens along the way. Short and easy.
 - **Split Rock Loop Trail** — a 2.5-mile loop past the split boulder and through desert wash scenery, with big rock formations the whole way.
 - **Hall of Horrors** — a short scramble among house-sized boulders by Ryan Campground. It's rock scrambling rather than a formal trail, so take it slow.
-- **Inspiration Peak** — a steep, partly unmarked climb from the Keys View parking lot, ranked as the park's #5 sunrise spot. Download the offline map before you start.
-- **Keys View** — a 0.1-mile paved overlook and the sunset stop: views over Coachella Valley to San Jacinto and San Gorgonio peaks on a clear day.
+- **Inspiration Peak** — a steep, partly unmarked climb from the Keys View parking lot, ranked as the park's #5 sunrise spot (sunrise 6:46 AM) — but the plan climbs it in the afternoon, before the Keys View sunset: start by ~3:00 PM to be back at the overlook by ~4:15 PM. Download the offline map before you start.
+- **Keys View** — a 0.1-mile paved overlook and the sunset stop: sunset 4:40 PM, so be back here by ~4:15 PM. Views over Coachella Valley to San Jacinto and San Gorgonio peaks on a clear day.
 
 Sleep: Joshua Tree town.
 
 ## Wed Dec 23 — Joshua Tree east + the big hike {#day-5}
 
-The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's a straight drive to Las Vegas for the Wednesday night flight home.
+The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's a straight drive to Las Vegas for the Wednesday night flight home.
 
 | Stop | Distance | Links |
 | --- | --- | --- |
-| Cholla Cactus Garden Nature Trail | 0.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/cholla-cactus-garden) · [Map](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA) |
+| Cholla Cactus Garden Nature Trail 🌅 6:46 AM | 0.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/cholla-cactus-garden) · [Map](https://www.google.com/maps/search/?api=1&query=Cholla+Cactus+Garden+Joshua+Tree+National+Park+CA) |
 | Arch Rock Nature Trail | 1.2 mi | [AllTrails](https://www.alltrails.com/trail/us/california/arch-rock-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=Arch+Rock+Trail+Joshua+Tree+National+Park+CA) |
 | Boy Scout Trail to Willow Hole | 6.9 mi | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=Willow+Hole+Joshua+Tree+National+Park+CA) |
 | Lost Palms Oasis Trail | 7.4 mi | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=Lost+Palms+Oasis+Joshua+Tree+National+Park+CA) |
 
 **The stops, in order:**
 
-- **Cholla Cactus Garden Nature Trail** — a 0.2-mile flat loop through a dense stand of teddybear cholla, best at sunrise when the spines glow. Look, don't touch — the segments detach easily.
+- **Cholla Cactus Garden Nature Trail** — a 0.2-mile flat loop through a dense stand of teddybear cholla, best at sunrise when the spines glow: sunrise 6:46 AM, so be there by ~6:30 AM — leave Joshua Tree town around 5:45 AM, about a 40-minute drive (estimate). Look, don't touch — the segments detach easily.
 - **Arch Rock Nature Trail** — a 1.2-mile loop to the park's best-known granite arch, a 30-foot span on the White Tank Campground trail. Good morning light.
 - **Boy Scout Trail to Willow Hole** — a 6.9-mile sandy-wash hike to Willow Hole, a grove of willows and palms in the desert. Pick **one** big hike: this, or Lost Palms Oasis.
 - **Lost Palms Oasis Trail** — a 7.4-mile hike in the park's south end to a palm oasis in a rocky canyon. Pick **one** big hike: this, or Boy Scout to Willow Hole. Carry plenty of water either way.
