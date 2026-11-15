@@ -36,7 +36,6 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - **Route:** Death Valley first, then Mojave National Preserve on the Mon Dec 21 transfer day, then Joshua Tree.
 - **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Stovepipe Wells ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
 - **Park entry:** $30 per vehicle per park, or the $80 America the Beautiful pass covering both.
-- **Stargazing is off** — full moon Wed Dec 23, and the moon is up all evening every night of the trip.
 - **Passport stamps:** bring the Collector's Edition book. Death Valley and Joshua Tree stamps at their visitor centers; Mojave stamp at the Barstow headquarters desk on Wed Dec 23 (or Hole-in-the-Wall on Mon Dec 21 if it's open — verify by phone, 760-252-6104).
 
 ## Weather in the desert — live forecast {#weather}
@@ -247,6 +246,5 @@ The last day: Cholla Cactus Garden at sunrise, Arch Rock, then one big hike star
 - **Water and gas are scarce in Death Valley** — stock up in Las Vegas or Pahrump on Friday night.
 - **Friday's drive arrives ~midnight** — the Furnace Creek hotel must allow very late check-in.
 - **No toll roads on this loop** — decline the toll pass at the rental counter.
-- **Full moon Wed Dec 23** — no stargazing this trip.
 
 [Back to top](#top)
