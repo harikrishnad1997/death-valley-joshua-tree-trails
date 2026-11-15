@@ -29,6 +29,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - [Wed Dec 23 — Joshua Tree east + the big hike](#day-5)
 - [Visitor centers](#visitor-centers)
 - [Places to eat](#places-to-eat)
+- [Food to pack on the way](#food-to-pack)
 - [Not in the plan](#not-in-the-plan)
 - [Know before you go](#know-before-you-go)
 - [Packing checklist](#packing-checklist)
@@ -37,7 +38,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 
 - **Dates:** Dec 17–23, 2026 — fly into Las Vegas, five park days Sat Dec 19 – Wed Dec 23, fly home on the Wed night redeye.
 - **Route:** Death Valley first, then Mojave National Preserve on the Mon Dec 21 transfer day, then Joshua Tree.
-- **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Stovepipe Wells ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
+- **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Pahrump ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
 - **Park entry:** $30 per vehicle per park, or the $80 America the Beautiful pass covering both.
 - **Passport stamps:** bring the Collector's Edition book. Death Valley and Joshua Tree stamps at their visitor centers; the Mojave stamp is got at Hole-in-the-Wall on Mon Dec 21 (open Fri–Mon 10 AM–4 PM) — the same center also holds the Castle Mountains stamp. Barstow HQ is the backup if Hole-in-the-Wall is closed — verify by phone, 760-252-6104.
 
@@ -273,7 +274,7 @@ Vegetarian options at each stop of the trip. Inside Death Valley there are only 
 
 - **The Inn at Death Valley Dining Room** (Furnace Creek) — the upscale in-park restaurant; creative vegan options like chipotle basil pesto pasta. Reservations recommended. [Map](https://www.google.com/maps/search/?api=1&query=The+Inn+at+Death+Valley+Dining+Room+Furnace+Creek+CA)
 - **The Last Kind Words Saloon** (The Ranch at Death Valley, Furnace Creek) — casual saloon with a black bean burger, vegetarian pizza, and pistachio sun-dried pasta. [Map](https://www.google.com/maps/search/?api=1&query=The+Last+Kind+Words+Saloon+Death+Valley+CA)
-- **Toll Road Restaurant** (Stovepipe Wells Village) — casual breakfast, lunch, and dinner with vegan and vegetarian options, right where Sunday night is based. [Map](https://www.google.com/maps/search/?api=1&query=Toll+Road+Restaurant+Stovepipe+Wells+CA)
+- **Toll Road Restaurant** (Stovepipe Wells Village) — casual breakfast, lunch, and dinner with vegan and vegetarian options, right at the Stovepipe Wells junction on Sunday's route before the drive to Pahrump. [Map](https://www.google.com/maps/search/?api=1&query=Toll+Road+Restaurant+Stovepipe+Wells+CA)
 
 **Baker — Mon Dec 21**
 
@@ -287,6 +288,26 @@ Vegetarian options at each stop of the trip. Inside Death Valley there are only 
 - **Pie for the People** (downtown Joshua Tree) — pizza by the slice with vegan and vegetarian options; the late-afternoon hiker staple for dinner. [Map](https://www.google.com/maps/search/?api=1&query=Pie+for+the+People+Joshua+Tree+CA)
 
 One more worth knowing: **La Copine** in Flamingo Heights is the area's best table — a small farm-to-table spot with a seasonal menu — but it needs a reservation weeks ahead, so it isn't a walk-in option.
+
+## Food to pack on the way {#food-to-pack}
+
+No real grocery inside either park, so the packable food comes from the towns on the way — sandwiches for the trails, and the supplies for the food checklist below.
+
+**Las Vegas — Thu Dec 17, Fri Dec 18**
+
+- **Panera Bread** (2400 S Rancho Dr, 6:30 AM–10 PM; also 5130 S Fort Apache Rd, drive-thru) — sandwiches, soups, and salads with vegetarian options like the Mediterranean Veggie sandwich; Rapid Pick-Up to grab and go. They also sell whole loaves of bread for the trail sandwiches. [Map](https://www.google.com/maps/search/?api=1&query=Panera+Bread+2400+S+Rancho+Dr+Las+Vegas+NV)
+
+**Pahrump — Fri Dec 18 night, Mon Dec 21 morning**
+
+- There is no Panera in Pahrump — the nearest is back in Las Vegas. The stock-up stop here is the grocery instead:
+- **Albertsons** (200 S Hwy 160, 6 AM–10 PM) — full grocery with deli and bakery: bread, peanut butter, trail snacks, water. [Map](https://www.google.com/maps/search/?api=1&query=Albertsons+200+S+Hwy+160+Pahrump+NV)
+- **Walmart Supercenter** (300 S Hwy 160, 6 AM–11 PM) — same, plus a Subway inside for a packable sandwich. [Map](https://www.google.com/maps/search/?api=1&query=Walmart+300+S+Hwy+160+Pahrump+NV)
+- Both open from 6 AM, so Monday's restock before the preserve drive works too.
+
+**Joshua Tree / Yucca Valley — Mon Dec 21, Tue Dec 22**
+
+- No Panera in the Joshua Tree area either — the nearest is in Barstow, off the route.
+- **Stater Bros. Markets** (57075 and 58060 29 Palms Hwy, Yucca Valley, 6 AM–11 PM) — deli and bakery; restock bread, peanut butter, fruit, and snacks Monday evening or Tuesday morning. [Map](https://www.google.com/maps/search/?api=1&query=Stater+Bros+57075+29+Palms+Hwy+Yucca+Valley+CA)
 
 ## Not in the plan {#not-in-the-plan}
 
@@ -325,6 +346,15 @@ December desert: mild days, cold mornings and nights, no cell service in the par
 - [ ] Water bottles — carry more than you think; refill at Furnace Creek, Stovepipe Wells, and the visitor centers
 - [ ] Trail snacks and food for the long Monday drive through the preserve
 - [ ] Sunscreen and lip balm — the desert sun is strong even in December
+
+**Food to pack / make ourselves** — buy it all Friday night in Las Vegas or Pahrump; there is no real grocery inside the parks
+
+- [ ] Bread — a loaf (Panera sells whole loaves, or from Albertsons / Stater Bros)
+- [ ] Peanut butter + jam
+- [ ] Trail mix, granola bars, dried fruit
+- [ ] Fruit that travels well — bananas, apples
+- [ ] Crackers
+- [ ] A butter knife, napkins, and zip bags for the sandwiches
 
 **Tech and navigation**
 
