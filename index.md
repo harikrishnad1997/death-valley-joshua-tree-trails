@@ -28,6 +28,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - [Tue Dec 22 — Joshua Tree west / central](#day-4)
 - [Wed Dec 23 — Joshua Tree east + the big hike](#day-5)
 - [Visitor centers](#visitor-centers)
+- [Places to eat](#places-to-eat)
 - [Not in the plan](#not-in-the-plan)
 - [Know before you go](#know-before-you-go)
 - [Packing checklist](#packing-checklist)
@@ -257,6 +258,35 @@ Every center the trip actually needs — for the passport stamps, passes, water,
 | [Joshua Tree National Park Visitor Center](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+National+Park+Visitor+Center+Twentynine+Palms+CA) | Alternate for the Joshua Tree stamp | Same stamp, at the park headquarters by the Oasis of Mara near the North Entrance — use it if you miss the downtown center | Daily 8 AM–5 PM |
 
 Not needed: the **Kelso Depot Visitor Center** is closed for repairs (exterior only, no stamp); the **Barstow headquarters** (weekdays ~8 AM–4:30 PM) is the backup Mojave stamp only if Hole-in-the-Wall is closed; **Cottonwood Visitor Center** (south entrance) and **Black Rock Nature Center** (Yucca Valley) aren't on the route.
+
+## Places to eat {#places-to-eat}
+
+Vegetarian options at each stop of the trip. Inside Death Valley there are only the resort restaurants — no fast food and no real grocery beyond the general stores — so stock up in Las Vegas or Pahrump on Friday night.
+
+**Las Vegas — Thu Dec 17, Fri Dec 18, Wed Dec 23**
+
+- **VegeNation** (616 E Carson Ave, Downtown) — fully vegan comfort food: smashed burgers, loaded nachos, grain bowls. The city's top-rated vegan spot (4.6★). [Map](https://www.google.com/maps/search/?api=1&query=VegeNation+616+E+Carson+Ave+Las+Vegas+NV)
+- **Tacotarian** (Planet Hollywood, 3663 Las Vegas Blvd S, the Strip) — plant-based Mexican tacos, in the Miracle Mile mall. [Map](https://www.google.com/maps/search/?api=1&query=Tacotarian+Planet+Hollywood+Las+Vegas+NV)
+- **True Food Kitchen** (The Forum Shops at Caesars, the Strip) — a full vegetarian and vegan menu alongside the regular dishes. [Map](https://www.google.com/maps/search/?api=1&query=True+Food+Kitchen+Forum+Shops+Caesars+Las+Vegas+NV)
+
+**Death Valley — Sat Dec 19, Sun Dec 20**
+
+- **The Inn at Death Valley Dining Room** (Furnace Creek) — the upscale in-park restaurant; creative vegan options like chipotle basil pesto pasta. Reservations recommended. [Map](https://www.google.com/maps/search/?api=1&query=The+Inn+at+Death+Valley+Dining+Room+Furnace+Creek+CA)
+- **The Last Kind Words Saloon** (The Ranch at Death Valley, Furnace Creek) — casual saloon with a black bean burger, vegetarian pizza, and pistachio sun-dried pasta. [Map](https://www.google.com/maps/search/?api=1&query=The+Last+Kind+Words+Saloon+Death+Valley+CA)
+- **Toll Road Restaurant** (Stovepipe Wells Village) — casual breakfast, lunch, and dinner with vegan and vegetarian options, right where Sunday night is based. [Map](https://www.google.com/maps/search/?api=1&query=Toll+Road+Restaurant+Stovepipe+Wells+CA)
+
+**Baker — Mon Dec 21**
+
+- **The Mad Greek Cafe** (72112 Baker Blvd) — Greek spot on the main strip through Baker, listed vegetarian friendly; hummus, salads, and veggie plates. [Map](https://www.google.com/maps/search/?api=1&query=The+Mad+Greek+Cafe+Baker+CA)
+- **Denny's** (72415 Baker Blvd) — the reliable fallback, listed vegetarian friendly, open long hours. [Map](https://www.google.com/maps/search/?api=1&query=Dennys+Baker+CA)
+
+**Joshua Tree &amp; Twentynine Palms — Mon Dec 21, Tue Dec 22**
+
+- **Crossroads Cafe** (downtown Joshua Tree) — the town's breakfast and lunch institution, with plenty of vegetarian and vegan choices; go early, it fills up 8–10 AM. [Map](https://www.google.com/maps/search/?api=1&query=Crossroads+Cafe+Joshua+Tree+CA)
+- **Natural Sisters Cafe** (61695 Twentynine Palms Hwy, Joshua Tree) — vegetarian and vegan-friendly cafe: smoothies, bowls, and wraps, near the West Entrance. [Map](https://www.google.com/maps/search/?api=1&query=Natural+Sisters+Cafe+Joshua+Tree+CA)
+- **Pie for the People** (downtown Joshua Tree) — pizza by the slice with vegan and vegetarian options; the late-afternoon hiker staple for dinner. [Map](https://www.google.com/maps/search/?api=1&query=Pie+for+the+People+Joshua+Tree+CA)
+
+One more worth knowing: **La Copine** in Flamingo Heights is the area's best table — a small farm-to-table spot with a seasonal menu — but it needs a reservation weeks ahead, so it isn't a walk-in option.
 
 ## Not in the plan {#not-in-the-plan}
 
