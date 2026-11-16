@@ -22,6 +22,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - [Trip at a glance](#trip-at-a-glance)
 - [Weather in the desert — live forecast](#weather)
 - [Trip map — color-coded by day](#trip-map)
+- [Fri Dec 18 — Las Vegas: Lake Mead + Tule Springs](#day-0)
 - [Sat Dec 19 — Death Valley east / central](#day-1)
 - [Sun Dec 20 — Death Valley canyons](#day-2)
 - [Mon Dec 21 — Mojave National Preserve + transfer](#day-3)
@@ -37,6 +38,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 ## Trip at a glance {#trip-at-a-glance}
 
 - **Dates:** Dec 17–23, 2026 — fly into Las Vegas, five park days Sat Dec 19 – Wed Dec 23, fly home on the Wed night redeye.
+- **Fri Dec 18:** work in Las Vegas till 2 PM PT, then Lake Mead Visitor Center + Tule Springs in the afternoon; 9 PM rental pickup at LAS, night drive to Furnace Creek via US-95 (Alien Center if the pickup is on time).
 - **Flights:** United. Out — **Thu Dec 17, UA 777**, ORD 8:20 PM → LAS 10:38 PM ([Track UA 777](https://www.flightaware.com/live/flight/UAL777)). Home — **Wed Dec 23, UA 2102**, LAS 11:50 PM → ORD 5:31 AM Thu Dec 24 ([Track UA 2102](https://www.flightaware.com/live/flight/UAL2102)).
 - **Route:** Death Valley first, then Mojave National Preserve on the Mon Dec 21 transfer day, then Joshua Tree.
 - **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Pahrump ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
@@ -127,9 +129,31 @@ Backups: the [National Weather Service forecast for Furnace Creek](https://forec
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🔵 **Day 1** (Sat, Death Valley east/central) · 🟠 **Day 2** (Sun, Death Valley canyons) · 🟢 **Day 3** (Mon, Mojave + transfer) · 🟣 **Day 4** (Tue, Joshua Tree west/central) · 🔴 **Day 5** (Wed, Joshua Tree east + the big hike). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
+Every stop on one map: 🟤 **Fri Dec 18** (Las Vegas: Lake Mead + Tule Springs) · 🔵 **Day 1** (Sat, Death Valley east/central) · 🟠 **Day 2** (Sun, Death Valley canyons) · 🟢 **Day 3** (Mon, Mojave + transfer) · 🟣 **Day 4** (Tue, Joshua Tree west/central) · 🔴 **Day 5** (Wed, Joshua Tree east + the big hike). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="Death Valley and Joshua Tree trip map — stops color-coded by day"></iframe>
+
+## Fri Dec 18 — Las Vegas: Lake Mead + Tule Springs, then the night drive {#day-0}
+
+Work in Las Vegas till 2 PM PT, then the afternoon is free: the Lake Mead Visitor Center in Boulder City for two passport stamps, and the Tule Springs Fossil Beds trailhead in North Las Vegas. Back in Las Vegas for the 9 PM rental pickup at LAS, then the night drive to Furnace Creek via US-95 — with the Area 51 Alien Center as a conditional stop, only if the pickup runs on time (it closes 11 PM; if the pickup runs late, skip it and take the Pahrump route instead).
+
+<iframe src="map.html?day=day0" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Friday Dec 18 — Las Vegas: Lake Mead + Tule Springs"></iframe>
+
+[Open the map for Friday full-screen](map.html?day=day0)
+
+| Stop | Distance | Time | Start | Parking | Links |
+| --- | --- | --- | --- | --- | --- |
+| Lake Mead Visitor Center (stamps) | — | ~45 min | ~2:45 PM | [visitor center lot](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) | [Map](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) |
+| Tule Springs Fossil Beds — Aliante trailhead | — | ~45 min | ~4:20 PM | [Aliante kiosk lot](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) | [Map](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) |
+| Area 51 Alien Center — **CONDITIONAL** | — | ~30 min | ~10:30 PM | [lot on US-95](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) | [Map](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) |
+
+**The stops, in order:**
+
+- **Lake Mead Visitor Center** — the Alan Bible Visitor Center in Boulder City, open daily 9 AM–4:30 PM. Get the Lake Mead stamp here — and the Tule Springs Fossil Beds stamp too, from the same desk. Exhibits, a park film, and a desert garden. Free to enter from the Boulder City side.
+- **Tule Springs Fossil Beds — Aliante trailhead** — the monument protects Ice Age fossil beds (mammoth, dire wolf, ground sloth). No visitor center, restrooms, or water on site — the Aliante kiosk parking area (open 7 AM–7 PM) is the way in for a short walk on the beds. Bring water; there's no shade.
+- **Area 51 Alien Center — CONDITIONAL** — alien-themed roadside stop on US-95 in Amargosa Valley: diner, gift shop, gas. Open daily 5 AM–11 PM. Only if the 9 PM rental pickup runs on time — you'd reach it ~10:30 PM, and it pushes Furnace Creek to ~12:30 AM. If the pickup runs late, skip it and take the Pahrump route instead.
+
+Sleep: Furnace Creek (arrive ~midnight, ~12:30 AM with the Alien Center stop).
 
 ## Sat Dec 19 — Death Valley east / central {#day-1}
 
@@ -282,10 +306,11 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 
 ## Visitor centers {#visitor-centers}
 
-Every center the trip actually needs — for the passport stamps, passes, water, and ranger info. Four of the five hold a stamp; Kelso Depot is closed, so it's listed only so you don't count on it.
+Every center the trip actually needs — for the passport stamps, passes, water, and ranger info. Each one below holds a stamp; Kelso Depot is closed, so it's listed only so you don't count on it.
 
 | Visitor center | Day | What for | Food inside? | Hours |
 | --- | --- | --- | --- | --- |
+| [Lake Mead Visitor Center](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) | Fri Dec 18 afternoon | Lake Mead stamp — and the Tule Springs Fossil Beds stamp too, from the same desk. Exhibits, park film, desert garden | No food inside — eat in Boulder City or back in Las Vegas | Daily 9 AM–4:30 PM |
 | [Furnace Creek Visitor Center](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | Sat Dec 19 (or any time Fri–Sun — you're based there) | Death Valley stamp, park film, passes, water, restrooms — the park's only full visitor center | No restaurant inside — the Inn Dining Room and Last Kind Words Saloon are right there at Furnace Creek (see Places to eat) | Daily 8 AM–5 PM |
 | [Stovepipe Wells Ranger Station](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) | Sun Dec 20 — backup only | A second Death Valley stamp (Stovepipe Wells oval) if you miss Furnace Creek; also sells passes. Contact station, not a full center — hours vary and it isn't open every day, so call 760-786-3200 first | No restaurant inside — Toll Road Restaurant and Badwater Saloon are at Stovepipe Wells Village | Varies — call ahead |
 | [Hole-in-the-Wall Information Center](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) | Mon Dec 21 | Mojave + Castle Mountains stamps — get them first, then the Rings Loop | No food here — stock up in Baker before the preserve drive | Fri–Mon 10 AM–4 PM |
@@ -349,6 +374,7 @@ No real grocery inside either park, so the packable food comes from the towns on
 ## Not in the plan {#not-in-the-plan}
 
 - **Telescope Peak** (12.2 mi) — a full day on its own, can be snowed in in December.
+- **Castle Mountains National Monument** — the stamp is already got at Hole-in-the-Wall on Monday, and the monument itself is dirt-road-only (Hart Mine Road closed, interior 4WD-only) with no visitor services — it doesn't fit the trip.
 - It stays cut unless the trip extends or a day is swapped. (Ubehebe Crater moved up to an optional Sunday detour — see Sun Dec 20.)
 
 ## Know before you go {#know-before-you-go}

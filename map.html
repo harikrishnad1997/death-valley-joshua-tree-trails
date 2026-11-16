@@ -26,9 +26,13 @@
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-var COLORS = { day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e", day4: "#7b1fa2", day5: "#c62828" };
-var DAYLABEL = { day1: "Day 1 · Sat Dec 19 — Death Valley east/central", day2: "Day 2 · Sun Dec 20 — Death Valley canyons", day3: "Day 3 · Mon Dec 21 — Mojave + transfer", day4: "Day 4 · Tue Dec 22 — Joshua Tree west/central", day5: "Day 5 · Wed Dec 23 — Joshua Tree east + big hike" };
+var COLORS = { day0: "#8d6e63", day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e", day4: "#7b1fa2", day5: "#c62828" };
+var DAYLABEL = { day0: "Fri Dec 18 — Las Vegas: Lake Mead + Tule Springs", day1: "Day 1 · Sat Dec 19 — Death Valley east/central", day2: "Day 2 · Sun Dec 20 — Death Valley canyons", day3: "Day 3 · Mon Dec 21 — Mojave + transfer", day4: "Day 4 · Tue Dec 22 — Joshua Tree west/central", day5: "Day 5 · Wed Dec 23 — Joshua Tree east + big hike" };
 var STOPS = [
+  // Fri Dec 18 — Las Vegas: Lake Mead + Tule Springs, then the night drive
+  { n: "1 · Lake Mead Visitor Center", d: "day0", t: "Alan Bible Visitor Center, Boulder City · open daily 9 AM–4:30 PM · STAMPS for Lake Mead + Tule Springs", lat: 36.009907, lng: -114.796774, q: "Lake+Mead+Visitor+Center+Boulder+City+NV" },
+  { n: "2 · Tule Springs Fossil Beds — Aliante trailhead", d: "day0", t: "Ice Age fossil beds · no visitor center on site · kiosk parking open 7 AM–7 PM", lat: 36.309226, lng: -115.18898, q: "Tule+Springs+Fossil+Beds+Aliante+Las+Vegas+NV" },
+  { n: "3 · Area 51 Alien Center — CONDITIONAL", d: "day0", t: "Alien-themed roadside stop on US-95, Amargosa Valley · open daily 5 AM–11 PM · only if the 9 PM rental pickup runs on time", lat: 36.643747, lng: -116.395994, q: "Area+51+Alien+Center+Amargosa+Valley+NV" },
   // Day 1 — Sat Dec 19, Death Valley east/central
   { n: "1 · Zabriskie Point / Badlands Loop", d: "day1", t: "2.6 mi · the first stop of the trip — golden badlands ridges", lat: 36.42085, lng: -116.8099, q: "Zabriskie+Point+Death+Valley+National+Park+CA" },
   { n: "2 · Dante's View", d: "day1", t: "0.9 mi · 5,000 ft above Badwater Basin", lat: 36.220659, lng: -116.726753, q: "Dante%27s+View+Death+Valley+National+Park+CA" },
