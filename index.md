@@ -38,7 +38,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 ## Trip at a glance {#trip-at-a-glance}
 
 - **Dates:** Dec 17–23, 2026 — fly into Las Vegas, five park days Sat Dec 19 – Wed Dec 23, fly home on the Wed night redeye.
-- **Fri Dec 18:** work in Las Vegas till 2 PM PT, then Lake Mead Visitor Center + Tule Springs in the afternoon; back ~5:45 PM, dinner downtown + Neon Museum and Fremont Street in the evening; 9 PM rental pickup at LAS, night drive to Furnace Creek via US-95 (Alien Center if the pickup is on time).
+- **Fri Dec 18:** work in Las Vegas till 2 PM PT, then Lake Mead Visitor Center + Tule Springs in the afternoon; back ~5:45 PM, dinner downtown; 9 PM rental pickup at LAS, night drive to Furnace Creek via US-95 (Alien Center if the pickup is on time).
 - **Flights:** United. Out — **Thu Dec 17, UA 777**, ORD 8:20 PM → LAS 10:38 PM ([Track UA 777](https://www.flightaware.com/live/flight/UAL777)). Home — **Wed Dec 23, UA 2102**, LAS 11:50 PM → ORD 5:31 AM Thu Dec 24 ([Track UA 2102](https://www.flightaware.com/live/flight/UAL2102)).
 - **Route:** Death Valley first, then Mojave National Preserve on the Mon Dec 21 transfer day, then Joshua Tree.
 - **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Pahrump ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
@@ -135,7 +135,7 @@ Every stop on one map: 🟤 **Fri Dec 18** (Las Vegas: Lake Mead + Tule Springs)
 
 ## Fri Dec 18 — Las Vegas: Lake Mead + Tule Springs, then the night drive {#day-0}
 
-Work in Las Vegas till 2 PM PT, then the afternoon is free: the Lake Mead Visitor Center in Boulder City for two passport stamps, and the Tule Springs Fossil Beds trailhead in North Las Vegas. Back in Las Vegas ~5:45 PM for dinner downtown, then the Neon Museum and Fremont Street in the evening, and the 9 PM rental pickup at LAS before the night drive to Furnace Creek via US-95 — with the Area 51 Alien Center as a conditional stop, only if the pickup runs on time (it closes 11 PM; if the pickup runs late, skip it and take the Pahrump route instead).
+Work in Las Vegas till 2 PM PT, then the afternoon is free: the Lake Mead Visitor Center in Boulder City for two passport stamps, and the Tule Springs Fossil Beds trailhead in North Las Vegas. Back in Las Vegas ~5:45 PM for dinner downtown, then the 9 PM rental pickup at LAS before the night drive to Furnace Creek via US-95 — with the Area 51 Alien Center as a conditional stop, only if the pickup runs on time (it closes 11 PM; if the pickup runs late, skip it and take the Pahrump route instead).
 
 <iframe src="map.html?day=day0" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Friday Dec 18 — Las Vegas: Lake Mead + Tule Springs"></iframe>
 
@@ -145,16 +145,12 @@ Work in Las Vegas till 2 PM PT, then the afternoon is free: the Lake Mead Visito
 | --- | --- | --- | --- | --- | --- |
 | [Lake Mead Visitor Center (stamps)](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) | — | ~45 min | ~2:45 PM | [visitor center lot](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) | [Map](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) |
 | [Tule Springs Fossil Beds — Aliante trailhead](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) | — | ~45 min | ~4:20 PM | [Aliante kiosk lot](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) | [Map](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) |
-| [Neon Museum (Boneyard)](https://www.google.com/maps/search/?api=1&query=Neon+Museum+770+N+Las+Vegas+Blvd+Las+Vegas+NV) — **EVENING** | — | ~1 hr | ~7:00 PM | [lot](https://www.google.com/maps/search/?api=1&query=Neon+Museum+770+N+Las+Vegas+Blvd+Las+Vegas+NV) | [Map](https://www.google.com/maps/search/?api=1&query=Neon+Museum+770+N+Las+Vegas+Blvd+Las+Vegas+NV) |
-| [Fremont Street Experience](https://www.google.com/maps/search/?api=1&query=Fremont+Street+Experience+Las+Vegas+NV) — **EVENING** | — | ~30 min | ~8:00 PM | [downtown garages](https://www.google.com/maps/search/?api=1&query=Fremont+Street+Experience+Las+Vegas+NV) | [Map](https://www.google.com/maps/search/?api=1&query=Fremont+Street+Experience+Las+Vegas+NV) |
 | [Area 51 Alien Center](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) — **CONDITIONAL** | — | ~30 min | ~10:30 PM | [lot on US-95](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) | [Map](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) |
 
 **The stops, in order:**
 
 - [**Lake Mead Visitor Center**](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) — the Alan Bible Visitor Center in Boulder City, open daily 9 AM–4:30 PM. Get the Lake Mead stamp here — and the Tule Springs Fossil Beds stamp too, from the same desk. Exhibits, a park film, and a desert garden. Free to enter from the Boulder City side.
 - [**Tule Springs Fossil Beds — Aliante trailhead**](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) — the monument protects Ice Age fossil beds (mammoth, dire wolf, ground sloth). No visitor center, restrooms, or water on site — the Aliante kiosk parking area (open 7 AM–7 PM) is the way in for a short walk on the beds. Bring water; there's no shade.
-- [**Neon Museum — EVENING**](https://www.google.com/maps/search/?api=1&query=Neon+Museum+770+N+Las+Vegas+Blvd+Las+Vegas+NV) — the Neon Boneyard at 770 N Las Vegas Blvd, downtown: retired neon signs, best after dark when the restored ones glow. Open 3–11 PM (last entry 10 PM); evening admission from $35, timed tickets that sell out — book ahead. About an hour in the Boneyard.
-- [**Fremont Street Experience — EVENING**](https://www.google.com/maps/search/?api=1&query=Fremont+Street+Experience+Las+Vegas+NV) — downtown's pedestrian mall under the Viva Vision canopy, a short walk from the Neon Museum. Free, open late — a last Vegas walk before the 9 PM pickup at LAS.
 - [**Area 51 Alien Center — CONDITIONAL**](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) — alien-themed roadside stop on US-95 in Amargosa Valley: diner, gift shop, gas. Open daily 5 AM–11 PM. Only if the 9 PM rental pickup runs on time — you'd reach it ~10:30 PM, and it pushes Furnace Creek to ~12:30 AM. If the pickup runs late, skip it and take the Pahrump route instead.
 
 Sleep: Furnace Creek (arrive ~midnight, ~12:30 AM with the Alien Center stop).
