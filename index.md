@@ -37,6 +37,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 ## Trip at a glance {#trip-at-a-glance}
 
 - **Dates:** Dec 17–23, 2026 — fly into Las Vegas, five park days Sat Dec 19 – Wed Dec 23, fly home on the Wed night redeye.
+- **Flights:** United. Out — **Thu Dec 17, UA 777**, ORD 8:20 PM → LAS 10:38 PM ([Track UA 777](https://www.flightaware.com/live/flight/UAL777)). Home — **Wed Dec 23, UA 2102**, LAS 11:50 PM → ORD 5:31 AM Thu Dec 24 ([Track UA 2102](https://www.flightaware.com/live/flight/UAL2102)).
 - **Route:** Death Valley first, then Mojave National Preserve on the Mon Dec 21 transfer day, then Joshua Tree.
 - **Lodging areas:** Death Valley Fri–Sun Dec 18–20 (Furnace Creek ×2, Pahrump ×1); Joshua Tree town Mon–Tue Dec 21–22 (2 nights).
 - **Park entry:** $30 per vehicle per park, or the $80 America the Beautiful pass covering both.
