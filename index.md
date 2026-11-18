@@ -15,7 +15,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 .hero-fig img { max-height: 420px; object-fit: cover; }
 </style>
 
-<figure class="trip-fig hero-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Death%20Valley%20-%20Zabriskie%20Point.jpg?width=1280" alt="Zabriskie Point, Death Valley — the golden badlands ridges at the first stop on Saturday." loading="lazy"><figcaption>Zabriskie Point, Death Valley — the first stop on Saturday's east/central day.</figcaption></figure>
+<figure class="trip-fig hero-fig"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Death%20Valley%20-%20Zabriskie%20Point.jpg?width=1280" alt="Zabriskie Point, Death Valley — the golden badlands ridges at the first stop on Saturday."><figcaption>Zabriskie Point, Death Valley — the first stop on Saturday's east/central day.</figcaption></figure>
 
 ## Contents {#contents}
 
@@ -131,13 +131,13 @@ Backups: the [National Weather Service forecast for Furnace Creek](https://forec
 
 Every stop on one map: 🟤 **Fri Dec 18** (Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs) · 🔵 **Day 1** (Sat, Death Valley east/central) · 🟠 **Day 2** (Sun, Death Valley canyons) · 🟢 **Day 3** (Mon, Mojave + transfer) · 🟣 **Day 4** (Tue, Joshua Tree west/central) · 🔴 **Day 5** (Wed, Joshua Tree east + the big hike). Pins are numbered in visit order; visitor centers are marked VC in their day's color — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
 
-<iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="Death Valley and Joshua Tree trip map — stops color-coded by day"></iframe>
+<iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" title="Death Valley and Joshua Tree trip map — stops color-coded by day"></iframe>
 
 ## Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs, then the night drive {#day-0}
 
 Work in Las Vegas till 2 PM PT, then the afternoon is free: Ice Age Fossils State Park in North Las Vegas for the Tule Springs stamp and the fossil exhibits, the Lake Mead Visitor Center in Boulder City for the Lake Mead stamp, and the Tule Springs Fossil Beds trailhead. Back in Las Vegas ~6:30 PM for dinner downtown, then the 9 PM rental pickup at LAS before the night drive to Furnace Creek via US-95 — with the Area 51 Alien Center as a conditional stop, only if the pickup runs on time (it closes 11 PM; if the pickup runs late, skip it and take the Pahrump route instead).
 
-<iframe src="map.html?day=day0" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Friday Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs"></iframe>
+<iframe src="map.html?day=day0" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Friday Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs"></iframe>
 
 [Open the map for Friday full-screen](map.html?day=day0)
 
@@ -161,7 +161,7 @@ Sleep: Furnace Creek (arrive ~midnight, ~12:30 AM with the Alien Center stop).
 
 The easy first day: the classic east-side viewpoints in one loop — Zabriskie Point's badlands at the start, Dante's View looking down 5,000 feet to Badwater, the salt flats, then Natural Bridge and Artist's Palette on the way back north to Furnace Creek.
 
-<iframe src="map.html?day=day1" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Saturday Dec 19 — Death Valley east/central"></iframe>
+<iframe src="map.html?day=day1" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Saturday Dec 19 — Death Valley east/central"></iframe>
 
 [Open the map for Saturday full-screen](map.html?day=day1)
 
@@ -191,7 +191,7 @@ Sleep: Furnace Creek.
 
 The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Gower Gulch combine into one 4.3-mile loop — hike in through Golden Canyon, out through Gower Gulch — then Desolation and Mosaic Canyons, and the day ends at Mesquite Flat Sand Dunes for sunset (4:35 PM).
 
-<iframe src="map.html?day=day2" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Sunday Dec 20 — Death Valley canyons"></iframe>
+<iframe src="map.html?day=day2" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Sunday Dec 20 — Death Valley canyons"></iframe>
 
 [Open the map for Sunday full-screen](map.html?day=day2)
 
@@ -221,7 +221,7 @@ Sleep: Stovepipe Wells — the west side, which sets up Monday's transfer.
 
 The transfer day is now a full Mojave day — and a long one. Leave Pahrump by ~6 AM: south through Shoshone to Baker, then north on I-15 to Cima Road for Teutonia Peak and the White Cross memorial across the road from its trailhead, south through Kelso for the dunes and the depot exterior, east to Hole-in-the-Wall for the Rings Loop and the stamps, back west for the Lava Tube, then Amboy Crater as a viewpoint stop and Roy's on Route 66 before CA-62 to Joshua Tree town, arriving ~9–10 PM (estimate). The full 4.1-mile Amboy Crater loop no longer fits the day, so Amboy is a short stop, not a hike. One swap to know: the Lava Tube's light beams are a midday thing (11 AM–1 PM), and in this order you'll reach the tube in the late afternoon — if the beams matter to you, do the tube right after the dunes and Hole-in-the-Wall after it, at the cost of ~30 minutes of backtracking. Wildrose Peak and Darwin Falls were dropped to make room for Mojave. Optional first stop: from Baker, back south on I-15 to Zzyzx for the Travelers Monument walk across Soda Lake — dry lakebed only, ~1 hr, and it pushes Teutonia to ~10 AM. A second optional: Castle Mountains National Monument instead of Teutonia Peak — north on I-15 to the Nipton exit, then Nipton Road and the graded dirt Walking Box Ranch Road to the monument boundary, ~3.5–4 hours round trip; the rest of the day runs ~1.5 hours later (Joshua Tree town ~11 PM).
 
-<iframe src="map.html?day=day3" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Monday Dec 21 — Mojave + transfer"></iframe>
+<iframe src="map.html?day=day3" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Monday Dec 21 — Mojave + transfer"></iframe>
 
 [Open the map for Monday full-screen](map.html?day=day3)
 
@@ -255,7 +255,7 @@ Sleep: Joshua Tree town / Yucca Valley.
 
 The full Joshua Tree day: Ryan Mountain first for the morning light, then the short loops — Hidden Valley, Barker Dam, Hall of Horrors, Skull Rock, Split Rock — and up to Keys View for the afternoon, with the steep, partly unmarked Inspiration Peak climb from the Keys View lot before sunset at Keys View itself (4:40 PM; start the climb by ~2:30 PM).
 
-<iframe src="map.html?day=day4" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Tuesday Dec 22 — Joshua Tree west/central"></iframe>
+<iframe src="map.html?day=day4" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Tuesday Dec 22 — Joshua Tree west/central"></iframe>
 
 [Open the map for Tuesday full-screen](map.html?day=day4)
 
@@ -289,7 +289,7 @@ Sleep: Joshua Tree town.
 
 The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole, Lost Palms Oasis, or Warren Peak via Black Rock. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's south to Palm Desert for the Santa Rosa and San Jacinto Mountains National Monument stamp and the Randall Henderson loop, then the drive to Las Vegas for the Wednesday night flight home (car back by 9 PM, UA 2102 at 11:50 PM).
 
-<iframe src="map.html?day=day5" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Wednesday Dec 23 — Joshua Tree east + the big hike"></iframe>
+<iframe src="map.html?day=day5" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Wednesday Dec 23 — Joshua Tree east + the big hike"></iframe>
 
 [Open the map for Wednesday full-screen](map.html?day=day5)
 
