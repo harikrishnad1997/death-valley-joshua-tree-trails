@@ -109,6 +109,11 @@ if (onlyDay) {
   document.querySelector("#bar h1").textContent = DAYLABEL[onlyDay];
   document.querySelector("#bar p").innerHTML = "Showing only this day's stops. <a href=\"map.html\" style=\"color:#fff\">See the full trip map</a>.";
 }
+// Re-measure after layout settles: a map initialised while its iframe was
+// still laying out can end up 0x0 and stay blank until invalidated.
+function fixSize() { map.invalidateSize(); }
+window.addEventListener("load", function () { setTimeout(fixSize, 100); setTimeout(fixSize, 1000); });
+window.addEventListener("resize", fixSize);
 </script>
 </body>
 </html>
