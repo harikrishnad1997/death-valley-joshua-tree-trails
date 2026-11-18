@@ -129,7 +129,7 @@ Backups: the [National Weather Service forecast for Furnace Creek](https://forec
 
 ## Trip map — color-coded by day {#trip-map}
 
-Every stop on one map: 🟤 **Fri Dec 18** (Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs) · 🔵 **Day 1** (Sat, Death Valley east/central) · 🟠 **Day 2** (Sun, Death Valley canyons) · 🟢 **Day 3** (Mon, Mojave + transfer) · 🟣 **Day 4** (Tue, Joshua Tree west/central) · 🔴 **Day 5** (Wed, Joshua Tree east + the big hike). Pins are numbered in visit order — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
+Every stop on one map: 🟤 **Fri Dec 18** (Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs) · 🔵 **Day 1** (Sat, Death Valley east/central) · 🟠 **Day 2** (Sun, Death Valley canyons) · 🟢 **Day 3** (Mon, Mojave + transfer) · 🟣 **Day 4** (Tue, Joshua Tree west/central) · 🔴 **Day 5** (Wed, Joshua Tree east + the big hike). Pins are numbered in visit order; visitor centers are marked VC in their day's color — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" loading="lazy" title="Death Valley and Joshua Tree trip map — stops color-coded by day"></iframe>
 

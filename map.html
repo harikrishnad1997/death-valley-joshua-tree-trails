@@ -21,7 +21,7 @@
 <body>
 <div id="bar">
   <h1>Death Valley + Joshua Tree — Trip Map</h1>
-  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name, distance, and a Google Maps link. Pins are numbered in visit order within each day.</p>
+  <p>Every stop, color-coded by day. Use the layer filter (top right) to show one day at a time. Tap a pin for the stop name, distance, and a Google Maps link. Pins are numbered in visit order within each day; visitor centers are marked VC.</p>
 </div>
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -30,8 +30,8 @@ var COLORS = { day0: "#8d6e63", day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e
 var DAYLABEL = { day0: "Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs", day1: "Day 1 · Sat Dec 19 — Death Valley east/central", day2: "Day 2 · Sun Dec 20 — Death Valley canyons", day3: "Day 3 · Mon Dec 21 — Mojave + transfer", day4: "Day 4 · Tue Dec 22 — Joshua Tree west/central", day5: "Day 5 · Wed Dec 23 — Joshua Tree east + big hike" };
 var STOPS = [
   // Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs, then the night drive
-  { n: "1 · Ice Age Fossils State Park", d: "day0", t: "Nevada state park on the Ice Age fossil beds · visitor center, mammoth exhibits, Megafauna Trail (0.3 mi) · STAMP for Tule Springs Fossil Beds · Wed–Sun 8 AM–4:30 PM, last entry 4 PM, $3/person", lat: 36.318764, lng: -115.205324, q: "Ice+Age+Fossils+State+Park+North+Las+Vegas+NV" },
-  { n: "2 · Lake Mead Visitor Center", d: "day0", t: "Alan Bible Visitor Center, Boulder City · open daily 9 AM–4:30 PM · STAMP for Lake Mead", lat: 36.009907, lng: -114.796774, q: "Lake+Mead+Visitor+Center+Boulder+City+NV" },
+  { n: "VC · Ice Age Fossils State Park", d: "day0", t: "Nevada state park on the Ice Age fossil beds · visitor center, mammoth exhibits, Megafauna Trail (0.3 mi) · STAMP for Tule Springs Fossil Beds · Wed–Sun 8 AM–4:30 PM, last entry 4 PM, $3/person", lat: 36.318764, lng: -115.205324, q: "Ice+Age+Fossils+State+Park+North+Las+Vegas+NV" },
+  { n: "VC · Lake Mead Visitor Center", d: "day0", t: "Alan Bible Visitor Center, Boulder City · open daily 9 AM–4:30 PM · STAMP for Lake Mead", lat: 36.009907, lng: -114.796774, q: "Lake+Mead+Visitor+Center+Boulder+City+NV" },
   { n: "3 · Tule Springs Fossil Beds — Aliante trailhead", d: "day0", t: "Ice Age fossil beds · no visitor center on site · kiosk parking open 7 AM–7 PM", lat: 36.309226, lng: -115.18898, q: "Tule+Springs+Fossil+Beds+Aliante+Las+Vegas+NV" },
   { n: "4 · Area 51 Alien Center — CONDITIONAL", d: "day0", t: "Alien-themed roadside stop on US-95, Amargosa Valley · open daily 5 AM–11 PM · only if the 9 PM rental pickup runs on time", lat: 36.643747, lng: -116.395994, q: "Area+51+Alien+Center+Amargosa+Valley+NV" },
   // Day 1 — Sat Dec 19, Death Valley east/central
@@ -40,12 +40,14 @@ var STOPS = [
   { n: "3 · Badwater Salt Flat Trail", d: "day1", t: "1.9 mi · lowest point in North America, -282 ft", lat: 36.25033, lng: -116.825858, q: "Badwater+Basin+Death+Valley+National+Park+CA" },
   { n: "4 · Natural Bridge Canyon Trail", d: "day1", t: "1.5 mi · natural rock bridge in a narrow canyon", lat: 36.28115, lng: -116.7699, q: "Natural+Bridge+Canyon+Death+Valley+National+Park+CA" },
   { n: "5 · Artist's Palette / Artists Drive", d: "day1", t: "0.3 mi · colorful mineral-stained hills on a one-way scenic drive", lat: 36.363515, lng: -116.802741, q: "Artist%27s+Palette+Death+Valley+National+Park+CA" },
+  { n: "VC · Furnace Creek Visitor Center", d: "day1", t: "Death Valley visitor center · open daily 8 AM–5 PM · STAMP for Death Valley", lat: 36.461615, lng: -116.866824, q: "Furnace+Creek+Visitor+Center+Death+Valley+National+Park+CA" },
   { n: "6 · Harmony Borax Works Interpretive Trail", d: "day1", t: "0.4 mi · 1880s borax mining ruins and the twenty-mule-team story", lat: 36.47982, lng: -116.87107, q: "Harmony+Borax+Works+Death+Valley+National+Park+CA" },
   // Day 2 — Sun Dec 20, Death Valley canyons
   { n: "1 · Golden Canyon Trail (to Red Cathedral)", d: "day2", t: "Hike in through Golden Canyon, out through Gower Gulch — one 4.3 mi loop", lat: 36.420745, lng: -116.846614, q: "Golden+Canyon+Trail+Death+Valley+National+Park+CA" },
   { n: "2 · Gower Gulch Loop", d: "day2", t: "4.3 mi loop with Golden Canyon", lat: 36.41647, lng: -116.835842, q: "Gower+Gulch+Death+Valley+National+Park+CA" },
   { n: "3 · Desolation Canyon Trail", d: "day2", t: "3.8 mi · badlands canyon off the valley floor", lat: 36.395833, lng: -116.83877, q: "Desolation+Canyon+Death+Valley+National+Park+CA" },
   { n: "4 · Mosaic Canyon Trail", d: "day2", t: "3.6 mi · polished marble narrows near Stovepipe Wells", lat: 36.56653, lng: -117.13459, q: "Mosaic+Canyon+Death+Valley+National+Park+CA" },
+  { n: "VC · Stovepipe Wells Ranger Station", d: "day2", t: "Contact station at Stovepipe Wells Village · backup Death Valley stamp when open · hours vary, call 760-786-3200 first", lat: 36.608048, lng: -117.144504, q: "Stovepipe+Wells+Ranger+Station+Death+Valley+National+Park+CA" },
   { n: "5 · Mesquite Flat Sand Dunes Trail", d: "day2", t: "2 mi · sunset stop — tallest dune is ~100 ft", lat: 36.6618711, lng: -117.0962487, q: "Mesquite+Flat+Sand+Dunes+Death+Valley+National+Park+CA" },
   { n: "6 · Ubehebe Crater — OPTIONAL detour", d: "day2", t: "1.8 mi rim loop, ~1 hr · half-mile-wide volcanic crater, 500–777 ft deep · ~32 mi / ~45 min each way north of Stovepipe Wells — only if Desolation Canyon is dropped", lat: 37.0098, lng: -117.45082, q: "Ubehebe+Crater+Death+Valley+National+Park+CA" },
   // Day 3 — Mon Dec 21, Mojave + transfer
@@ -54,11 +56,13 @@ var STOPS = [
   { n: "2 · Teutonia Peak Trail", d: "day3", t: "3.2 mi · Joshua tree forest hike to a rocky summit over Cima Dome", lat: 35.31625, lng: -115.5525, q: "Teutonia+Peak+Trail+Mojave+National+Preserve+CA" },
   { n: "3 · White Cross World War I Memorial (Mojave Cross)", d: "day3", t: "1934 WWI memorial cross on Sunrise Rock, across Cima Rd from the Teutonia Peak trailhead", lat: 35.314833, lng: -115.550389, q: "Mojave+Memorial+Cross+Mojave+National+Preserve+CA" },
   { n: "4 · Kelso Dunes Trail", d: "day3", t: "3.0 mi · the singing dunes of Mojave National Preserve", lat: 34.89235, lng: -115.69906, q: "Kelso+Dunes+Mojave+National+Preserve+CA" },
+  { n: "VC · Hole-in-the-Wall Information Center", d: "day3", t: "Mojave information center · open Fri–Mon 10 AM–4 PM · STAMPS for Mojave + Castle Mountains — get them first, then hike the Rings Loop", lat: 35.044, lng: -115.398, q: "Hole-in-the-Wall+Information+Center+Mojave+National+Preserve+CA" },
   { n: "5 · Hole-in-the-Wall Rings Trail", d: "day3", t: "1.4 mi · Banshee Canyon slot, metal rings, petroglyphs · STAMPS for Mojave + Castle Mountains at the information center (Fri–Mon 10 AM–4 PM)", lat: 35.044, lng: -115.398, q: "Hole-in-the-Wall+Mojave+National+Preserve+CA" },
   { n: "6 · Lava Tube Trail", d: "day3", t: "0.5 mi · lava tube cave, skylight beams at midday · rough dirt road in (Aiken Mine Rd) — bring a flashlight", lat: 35.21378, lng: -115.7532, q: "Lava+Tube+Trail+Mojave+National+Preserve+CA" },
   { n: "7 · Amboy Crater — viewpoint stop", d: "day3", t: "Ancient cinder cone volcano on Route 66 · short viewpoint stop, not the full 4.1 mi loop · Roy's Motel & Cafe nearby", lat: 34.5572, lng: -115.7814, q: "Amboy+Crater+Mojave+National+Preserve+CA" },
   // Day 4 — Tue Dec 22, Joshua Tree west/central
   { n: "1 · Ryan Mountain Trail", d: "day4", t: "2.9 mi · 1,050 ft climb, panoramic summit — do it early", lat: 34.00257, lng: -116.13594, q: "Ryan+Mountain+Joshua+Tree+National+Park+CA" },
+  { n: "VC · Joshua Tree Visitor Center", d: "day4", t: "Downtown Joshua Tree visitor center · open daily 7:30 AM–5 PM · STAMP for Joshua Tree · the only center with food inside (Roadrunner Grab+Go Café)", lat: 34.1339, lng: -116.3155, q: "Joshua+Tree+Visitor+Center+Joshua+Tree+National+Park+CA" },
   { n: "2 · Hidden Valley Nature Trail", d: "day4", t: "1.0 mi · boulder-enclosed valley loop", lat: 34.012466, lng: -116.168057, q: "Hidden+Valley+Joshua+Tree+National+Park+CA" },
   { n: "3 · Barker Dam Trail", d: "day4", t: "1.3 mi · historic dam, water, and petroglyphs", lat: 34.0251, lng: -116.142, q: "Barker+Dam+Joshua+Tree+National+Park+CA" },
   { n: "4 · Hall of Horrors", d: "day4", t: "Short scramble among the boulders by Ryan Campground", lat: 34.00052, lng: -116.147084, q: "Hall+of+Horrors+Joshua+Tree+National+Park+CA" },
