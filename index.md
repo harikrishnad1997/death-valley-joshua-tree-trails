@@ -287,7 +287,7 @@ Sleep: Joshua Tree town.
 
 ## Wed Dec 23 — Joshua Tree east + the big hike {#day-5}
 
-The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's Pioneertown for a late lunch on Mane Street, then the drive to Las Vegas for the Wednesday night flight home.
+The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole or Lost Palms Oasis. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's south to Palm Desert for the Santa Rosa and San Jacinto Mountains National Monument stamp and the Randall Henderson loop, then the drive to Las Vegas for the Wednesday night flight home (car back by 9 PM, UA 2102 at 11:50 PM).
 
 <iframe src="map.html?day=day5" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" loading="lazy" title="Map for Wednesday Dec 23 — Joshua Tree east + the big hike"></iframe>
 
@@ -299,7 +299,7 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 | [Arch Rock Nature Trail](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) | 1.2 mi | 0.5–1 hr | ~8:00 AM | [Arch Rock lot](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) | [AllTrails](https://www.alltrails.com/trail/us/california/arch-rock-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) |
 | [Boy Scout Trail to Willow Hole](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) | 6.9 mi | 2–2.5 hr | ~9:30 AM | [Boy Scout Trailhead](https://www.google.com/maps/search/?api=1&query=34.04042,-116.18627) | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) |
 | [Lost Palms Oasis Trail](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) | 7.4 mi | 3–4 hr (guides) | ~10:00 AM | [Cottonwood Spring lot](https://www.google.com/maps/search/?api=1&query=33.67555,-115.80163) | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) |
-| [Pioneertown (Mane Street + Pappy & Harriet's)](https://www.google.com/maps/search/?api=1&query=Pioneertown+CA) | — | ~1.5 hr | ~1:00 PM | [Pioneertown lot](https://www.google.com/maps/search/?api=1&query=Pioneertown+CA) | [Map](https://www.google.com/maps/search/?api=1&query=Pioneertown+CA) |
+| [Santa Rosa and San Jacinto Mountains National Monument Visitor Center (stamp) + Randall Henderson Loop](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) | 2.7 mi | ~1 hr 15 min | ~1:30 PM | [visitor center lot](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) | [AllTrails](https://www.alltrails.com/trail/us/california/randall-henderson-loop-trail) · [Map](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) |
 
 
 **The stops, in order:**
@@ -308,7 +308,7 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 - [**Arch Rock Nature Trail**](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) — a 1.2-mile loop to the park's best-known granite arch, a 30-foot span on the White Tank Campground trail. Good morning light.
 - [**Boy Scout Trail to Willow Hole**](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) — a 6.9-mile sandy-wash hike to Willow Hole, a grove of willows and palms in the desert. Pick **one** big hike: this, or Lost Palms Oasis.
 - [**Lost Palms Oasis Trail**](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) — a 7.4-mile hike in the park's south end to a palm oasis in a rocky canyon. Pick **one** big hike: this, or Boy Scout to Willow Hole. Carry plenty of water either way.
-- [**Pioneertown**](https://www.google.com/maps/search/?api=1&query=Pioneertown+CA) — a 1940s Western movie-set town on Pioneertown Road, about 20 minutes from Joshua Tree town. Walk Mane Street's false-front storefronts (no cars, foot only), then a late lunch at Pappy & Harriet's Pioneertown Palace (53688 Pioneertown Rd) — veggie burgers and vegetarian nachos. About an hour and a half, after the big hike (around 12:30 PM if you do Willow Hole, closer to 2 PM for Lost Palms); then it's the drive to Las Vegas.
+- [**Santa Rosa and San Jacinto Mountains National Monument Visitor Center (stamp) + Randall Henderson Loop**](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) — the monument's visitor center on Highway 74 in Palm Desert (51-500 Hwy 74), open 8:30 AM–4 PM — get the passport stamp at the counter, then the Randall Henderson Loop, a 2.7-mile loop right from the visitor center lot (~1–1.5 hr, 426 ft gain). Arrive ~1:30 PM, done ~2:45 PM, then the drive to Las Vegas. (Pioneertown swapped out Nov 18.)
 
 ## Visitor centers {#visitor-centers}
 
@@ -349,12 +349,11 @@ Vegetarian options at each stop of the trip. Inside Death Valley there are only 
 - [**The Mad Greek Cafe**](https://www.google.com/maps/search/?api=1&query=The+Mad+Greek+Cafe+Baker+CA) (72112 Baker Blvd) — Greek spot on the main strip through Baker, listed vegetarian friendly; hummus, salads, and veggie plates. [Map](https://www.google.com/maps/search/?api=1&query=The+Mad+Greek+Cafe+Baker+CA)
 - [**Denny's**](https://www.google.com/maps/search/?api=1&query=Dennys+Baker+CA) (72415 Baker Blvd) — the reliable fallback, listed vegetarian friendly, open long hours. [Map](https://www.google.com/maps/search/?api=1&query=Dennys+Baker+CA)
 
-**Joshua Tree, Twentynine Palms &amp; Pioneertown — Mon Dec 21, Tue Dec 22, Wed Dec 23**
+**Joshua Tree &amp; Twentynine Palms — Mon Dec 21, Tue Dec 22, Wed Dec 23**
 
 - [**Crossroads Cafe**](https://www.google.com/maps/search/?api=1&query=Crossroads+Cafe+61715+29+Palms+Hwy+Joshua+Tree+CA) (downtown Joshua Tree) — the town's breakfast and lunch institution, with plenty of vegetarian and vegan choices; go early, it fills up 8–10 AM. [Map](https://www.google.com/maps/search/?api=1&query=Crossroads+Cafe+61715+29+Palms+Hwy+Joshua+Tree+CA)
 - [**Natural Sisters Cafe**](https://www.google.com/maps/search/?api=1&query=Natural+Sisters+Cafe+61695+Twentynine+Palms+Hwy+Joshua+Tree+CA) (61695 Twentynine Palms Hwy, Joshua Tree) — vegetarian and vegan-friendly cafe: smoothies, bowls, and wraps, near the West Entrance. [Map](https://www.google.com/maps/search/?api=1&query=Natural+Sisters+Cafe+61695+Twentynine+Palms+Hwy+Joshua+Tree+CA)
 - [**Pie for the People**](https://www.google.com/maps/search/?api=1&query=Pie+for+the+People+61740+29+Palms+Hwy+Joshua+Tree+CA) (downtown Joshua Tree) — pizza by the slice with vegan and vegetarian options; the late-afternoon hiker staple for dinner. [Map](https://www.google.com/maps/search/?api=1&query=Pie+for+the+People+61740+29+Palms+Hwy+Joshua+Tree+CA)
-- [**Pappy & Harriet's Pioneertown Palace**](https://www.google.com/maps/search/?api=1&query=Pappy+Harriet%27s+Pioneertown+CA) (53688 Pioneertown Rd, Pioneertown) — the Wednesday lunch stop after the big hike: a legendary desert roadhouse with live music, vegetarian-friendly — veggie burgers and vegetarian nachos. Open Wed 11 AM–11 PM. [Map](https://www.google.com/maps/search/?api=1&query=Pappy+Harriet%27s+Pioneertown+CA)
 
 One more worth knowing: **La Copine** in Flamingo Heights is the area's best table — a small farm-to-table spot with a seasonal menu — but it needs a reservation weeks ahead, so it isn't a walk-in option.
 
