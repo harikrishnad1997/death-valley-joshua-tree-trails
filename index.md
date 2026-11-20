@@ -22,6 +22,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - [Trip at a glance](#trip-at-a-glance)
 - [Weather in the desert — live forecast](#weather)
 - [Trip map — color-coded by day](#trip-map)
+- [Road conditions — live from NPS](#road-conditions)
 - [Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs](#day-0)
 - [Sat Dec 19 — Death Valley east / central](#day-1)
 - [Sun Dec 20 — Death Valley canyons](#day-2)
@@ -132,6 +133,32 @@ Backups: the [National Weather Service forecast for Furnace Creek](https://forec
 Every stop on one map: 🟤 **Fri Dec 18** (Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs) · 🔵 **Day 1** (Sat, Death Valley east/central) · 🟠 **Day 2** (Sun, Death Valley canyons) · 🟢 **Day 3** (Mon, Mojave + transfer) · 🟣 **Day 4** (Tue, Joshua Tree west/central) · 🔴 **Day 5** (Wed, Joshua Tree east + the big hike). Pins are numbered in visit order; visitor centers are marked VC in their day's color — tap a pin for the stop and a Google Maps link. **Filter by day:** use the layer checkboxes on the map (top right — on a phone, tap the layers icon). [Open the map full-screen](map.html) for easier browsing on a phone.
 
 <iframe src="map.html" width="100%" style="border:1px solid #ccc; border-radius:8px; height:82vh; min-height:620px;" title="Death Valley and Joshua Tree trip map — stops color-coded by day"></iframe>
+
+## Road conditions — live from NPS {#road-conditions}
+
+{% assign rc = site.data.road_conditions %}
+{% if rc %}
+*Last checked: {{ rc.updated_display }}. Pulled automatically each morning from the official NPS conditions pages and alerts — what NPS lists right now. Check the linked NPS page for the full current picture before you drive.*
+{% for park in rc.parks %}
+### {{ park.name }}
+{% if park.roads %}
+{% for r in park.roads %}
+- **{{ r.road }}** — **{{ r.status }}**{% if r.caution %} (Caution){% endif %}: {{ r.notes }}
+{% endfor %}
+{% endif %}
+{% if park.alerts.size > 0 %}
+{% for a in park.alerts %}
+- **{{ a.title }}** ({{ a.category }}): {{ a.description }}
+{% endfor %}
+{% else %}
+- No current road alerts listed.
+{% endif %}
+
+[Current conditions — {{ park.name }} (NPS)]({{ park.url }})
+{% endfor %}
+{% else %}
+*Road conditions are checked automatically each morning from the official NPS pages. If this section is empty, the check has not run yet — see the NPS conditions pages linked in the trip notes.*
+{% endif %}
 
 ## Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs, then the night drive {#day-0}
 
