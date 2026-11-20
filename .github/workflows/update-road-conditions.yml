@@ -6,8 +6,8 @@ name: Update road conditions
 # trip page renders. Fully automatic — no manual step.
 on:
   schedule:
-    # Daily at 12:00 UTC = 6:00 AM Central (winter).
-    - cron: "0 12 * * *"
+    # Daily Dec 14-23 at 12:00 UTC = 6:00 AM Central — final prep days + the trip.
+    - cron: "0 12 14-23 12 *"
   workflow_dispatch:
 
 permissions:
