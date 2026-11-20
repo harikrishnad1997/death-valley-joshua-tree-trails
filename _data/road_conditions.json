@@ -1,0 +1,99 @@
+{
+  "updated": "2026-11-19T20:34-06:00",
+  "updated_display": "Thu Nov 19, 2026, 8:34 PM CT",
+  "parks": [
+    {
+      "code": "deva",
+      "name": "Death Valley National Park",
+      "url": "https://www.nps.gov/deva/planyourvisit/conditions.htm",
+      "alerts": [],
+      "roads": null
+    },
+    {
+      "code": "moja",
+      "name": "Mojave National Preserve",
+      "url": "https://www.nps.gov/moja/planyourvisit/conditions.htm",
+      "alerts": [
+        {
+          "title": "Hart Mine Road Closed",
+          "category": "Park Closure",
+          "description": "Hart Mine Road Closed."
+        },
+        {
+          "title": "Road Closure South Kelbaker Road I-40 to Kelso and Kelso Dunes Road",
+          "category": "Park Closure",
+          "description": "South Kelbaker Road from I-40 to Kelso and Kelso-Dunes Road will be closed starting November 16, 2026 for road rehabilitation. Closure will be approximately 12 to 18 months."
+        }
+      ],
+      "roads": [
+        {
+          "road": "Black Canyon Road (paved from Essex Road to Hole in the Wall area, unpaved to north)",
+          "status": "OPEN",
+          "caution": true,
+          "notes": "Some washboard and debris from recent rains. Debris and shoulder washouts on southern paved sections near intersection with Essex Road."
+        },
+        {
+          "road": "Essex Road (paved)",
+          "status": "OPEN",
+          "caution": true,
+          "notes": "Debris and numerous washouts near the intersection with Black Canyon Road. Use this road to access Mitchell Caverns and the Hole in the Wall Visitor Center. Do not follow GPS directions onto a dirt road."
+        },
+        {
+          "road": "Ivanpah/Lanfair Road (mostly unpaved)",
+          "status": "OPEN",
+          "caution": false,
+          "notes": "Some washboard, debris and mud due to rainstorms. Sharp drop offs on the shoulder in some areas."
+        },
+        {
+          "road": "Kelbaker Road North-Kelso to Baker",
+          "status": "OPEN",
+          "caution": false,
+          "notes": "Watch for potholes and travel with caution. Some areas with shoulder washouts resulting in steep drops."
+        },
+        {
+          "road": "Kelbaker Road South- Kelso to I-40",
+          "status": "CLOSED",
+          "caution": false,
+          "notes": "Due to major road rehabilitation and safety improvement project. Closed for 12 to 18 months starting 11/16/2026."
+        },
+        {
+          "road": "Cedar Canyon (mostly unpaved)",
+          "status": "OPEN",
+          "caution": false,
+          "notes": "Some washboard and bumps, often muddy following rain."
+        },
+        {
+          "road": "Kelso-Cima Road (paved)",
+          "status": "OPEN",
+          "caution": false,
+          "notes": "Use caution and watch for tortoise on roadway. Dirt and rocks in some of the low spots in the eastern section of the road."
+        },
+        {
+          "road": "Cima Road (paved)",
+          "status": "OPEN",
+          "caution": true,
+          "notes": "Shoulders are washed out in some areas, resulting in steep drop offs along the northern six miles of the road. Debris often present following rainstorms."
+        },
+        {
+          "road": "Morningstar Mine Road (paved)",
+          "status": "OPEN",
+          "caution": false,
+          "notes": "Use caution and watch for tortoise on roadway. Some shoulder washouts. Potholes."
+        },
+        {
+          "road": "Zzyzx Road (mostly paved)",
+          "status": "OPEN",
+          "caution": false,
+          "notes": "Use caution on small gravel section with potholes and ruts. Rocks and debris on the roadway that could cause vehicle damage. Large puddles also in the roadway."
+        }
+      ]
+    },
+    {
+      "code": "jotr",
+      "name": "Joshua Tree National Park",
+      "url": "https://www.nps.gov/jotr/planyourvisit/conditions.htm",
+      "alerts": [],
+      "roads": null
+    }
+  ]
+}
