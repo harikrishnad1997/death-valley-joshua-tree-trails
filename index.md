@@ -175,6 +175,7 @@ Work in Las Vegas till 2 PM PT, then the afternoon is free: Ice Age Fossils Stat
 | [Lake Mead Visitor Center (stamps)](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) | — | ~25 min | ~4:05 PM | ~4:15 PM | [visitor center lot](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) | [Map](https://www.google.com/maps/search/?api=1&query=36.009907,-114.796774) |
 | [Tule Springs Fossil Beds — Aliante trailhead](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) | — | ~45 min | ~5:15 PM | ~6:00 PM | [Aliante kiosk lot](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) | [Map](https://www.google.com/maps/search/?api=1&query=36.309226,-115.18898) |
 | [Area 51 Alien Center](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) — **CONDITIONAL** | — | ~30 min | ~10:30 PM | — | [lot on US-95](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) | [Map](https://www.google.com/maps/search/?api=1&query=36.643747,-116.395994) |
+
 *Leave by = the next stop's Start at stop minus the estimated drive (Friday Vegas traffic included, rounded to 5 min). Friday afternoon is tight: Ice Age needs to be ~30 minutes (not 45) to make Lake Mead by 4:05, and Lake Mead is stamps-only, ~10 minutes. Tule Springs ~6:00 PM gets you back to Vegas for dinner and the 9 PM rental pickup.*
 
 
@@ -205,6 +206,7 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 | [Furnace Creek Visitor Center (stamp)](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | — | ~30 min | ~12:00 PM | ~12:25 PM | [VC lot](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | [Map](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) |
 | [Harmony Borax Works Interpretive Trail](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) | 0.4 mi | 9 min | ~12:30 PM | ~1:10 PM | [Harmony lot](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) | [AllTrails](https://www.alltrails.com/trail/us/california/harmony-borax-works) · [Map](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) |
 | [Salt Creek Interpretive Trail](https://www.google.com/maps/search/?api=1&query=36.5906,-116.9906) | 0.5 mi (NPS) | 30 min (NPS) | ~1:30 PM | — | [Salt Creek lot](https://www.google.com/maps/search/?api=1&query=36.5906,-116.9906) | [AllTrails](https://www.alltrails.com/trail/us/california/death-valley-national-park-salt-creek-interpretive-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.5906,-116.9906) |
+
 *Leave by = the next stop's Start at stop minus the estimated drive (rounded to 5 min). Saturday morning is tight: Badwater assumes a quick ~20-minute walk, and Natural Bridge needs to be ~35 minutes (not the 52-minute average) to make Artist's Palette at 11:00.*
 
 
@@ -238,6 +240,7 @@ The canyon day, and the longest hiking day in Death Valley. Golden Canyon and Go
 | [Stovepipe Wells Ranger Station (backup stamp)](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) | — | ~15 min | anytime (backup) | — | [station lot](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) | [Map](https://www.google.com/maps/search/?api=1&query=Stovepipe+Wells+Ranger+Station+Death+Valley+CA) |
 | [Mesquite Flat Sand Dunes Trail 🌇 4:35 PM](https://www.google.com/maps/search/?api=1&query=36.6618711,-117.0962487) | 2 mi | 0.5–1 hr | ~3:45 PM | — | [Mesquite Dunes lot](https://www.google.com/maps/search/?api=1&query=36.6618711,-117.0962487) | [AllTrails](https://www.alltrails.com/trail/us/california/mesquite-flat-sand-dunes-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.6618711,-117.0962487) |
 | [Ubehebe Crater](https://www.google.com/maps/search/?api=1&query=37.0098,-117.45082) — **OPTIONAL** | 1.8 mi | 0.5–1 hr | — (only if Desolation is dropped) | — | [crater lot](https://www.google.com/maps/search/?api=1&query=37.0098,-117.45082) | [AllTrails](https://www.alltrails.com/trail/us/california/ubehebe-and-little-hebe-crater-trail) · [Map](https://www.google.com/maps/search/?api=1&query=37.0098,-117.45082) |
+
 *Leave by = the next stop's Start at stop minus the estimated drive (rounded to 5 min). Golden Canyon and Gower Gulch are one loop — no drive between them. Mosaic's leave-by skips the Stovepipe Wells backup stop (it's on the way if you want the stamp).*
 
 
@@ -272,6 +275,7 @@ The transfer day is now a full Mojave day — and a long one. Leave Pahrump by ~
 | [Hole-in-the-Wall Rings Trail](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) | 1.4 mi | 1–2 hr (NPS) | ~2:20 PM | ~2:20 PM | [visitor center lot](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) | [AllTrails](https://www.alltrails.com/trail/us/california/hole-in-the-wall-rings-trail) · [Map](https://www.google.com/maps/search/?api=1&query=35.044,-115.398) |
 | [Lava Tube Trail](https://www.google.com/maps/search/?api=1&query=35.21378,-115.7532) | 0.5 mi | 0.5–1 hr | ~4:45 PM | ~4:55 PM | [pullout on Aiken Mine Rd](https://www.google.com/maps/search/?api=1&query=35.21378,-115.7532) | [AllTrails](https://www.alltrails.com/trail/us/california/lava-tube-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=35.21378,-115.7532) |
 | [Amboy Crater — viewpoint stop](https://www.google.com/maps/search/?api=1&query=34.5572,-115.7814) | — | ~15 min | ~6:15 PM | — | [viewpoint on Route 66](https://www.google.com/maps/search/?api=1&query=34.5572,-115.7814) | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/amboy-crater) · [Map](https://www.google.com/maps/search/?api=1&query=34.5572,-115.7814) |
+
 *Leave by = the next stop's Start at stop minus the estimated drive (rounded to 5 min). Two warnings: doing the Rings Loop makes the 4:45 PM Lava Tube impossible — you'd need to leave Hole-in-the-Wall by ~2:20 PM, the moment the loop starts. Travelers Monument: leave ~9:30 AM after the full hour and Teutonia lands ~10:15 AM. The Castle Mountains row has no leave-by — that version shifts the whole day ~1.5 hours later.*
 
 
@@ -309,6 +313,7 @@ The full Joshua Tree day: Ryan Mountain first for the morning light, then the sh
 | [Split Rock Loop Trail](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) | 2.5 mi | 1–1.5 hr | ~1:15 PM | ~2:10 PM | [Split Rock lot](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) | [AllTrails](https://www.alltrails.com/trail/us/california/split-rock-loop--4) · [Map](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) |
 | [Inspiration Peak (from Keys View)](https://www.google.com/maps/search/?api=1&query=33.93576,-116.19551) | 1.9 mi | avg ~1 h 12 min | ~2:30 PM | ~3:40 PM | [Keys View lot](https://www.google.com/maps/search/?api=1&query=33.92658,-116.187214) | [AllTrails](https://www.alltrails.com/trail/us/california/inspiration-peak-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=33.93576,-116.19551) |
 | [Keys View 🌇 4:40 PM](https://www.google.com/maps/search/?api=1&query=33.92658,-116.187214) | 0.1 mi | 2 min | ~3:45 PM | — | [Keys View lot](https://www.google.com/maps/search/?api=1&query=33.92658,-116.187214) | [AllTrails](https://www.alltrails.com/trail/us/california/keys-view) · [Map](https://www.google.com/maps/search/?api=1&query=33.92658,-116.187214) |
+
 *Leave by = the next stop's Start at stop minus the estimated drive (rounded to 5 min). Wall Street Mill has no leave-by — doing it pushes the afternoon ~45 minutes later (Keys View would slip to ~4:30 PM). Skipping the mill, leave Barker Dam by ~11:50 AM for Hall of Horrors.*
 
 
@@ -344,6 +349,7 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 | [Warren Peak](https://www.google.com/maps/search/?api=1&query=34.0551,-116.4072) | 5.7 mi | 3–3.5 hr | ~9:30 AM | ~12:40 PM | [Black Rock trailhead](https://www.google.com/maps/search/?api=1&query=34.07155,-116.3909) | [AllTrails](https://www.alltrails.com/trail/us/california/black-rock-canyon-trail-to-warren-peak) · [Map](https://www.google.com/maps/search/?api=1&query=34.0551,-116.4072) |
 | [Lost Palms Oasis Trail](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) | 7.4 mi | 3–4 hr (guides) | ~10:00 AM | ~2:15 PM | [Cottonwood Spring lot](https://www.google.com/maps/search/?api=1&query=33.67555,-115.80163) | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) |
 | [Santa Rosa and San Jacinto Mountains National Monument Visitor Center (stamp) + Randall Henderson Loop](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) | 2.7 mi | ~1 hr 15 min | ~1:30 PM | — | [visitor center lot](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) | [AllTrails](https://www.alltrails.com/trail/us/california/randall-henderson-loop-trail) · [Map](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) |
+
 *Leave by = the next stop's Start at stop minus the estimated drive (rounded to 5 min). Oasis of Mara: leave by ~6:00 AM means a quick look only — the full 30–45-minute loop pushes Cholla past sunrise. Arch Rock's ~8:40 AM is the earliest of the three big hikes (Warren Peak); Boy Scout ~9:05 AM, Lost Palms ~9:10 AM.*
 
 
