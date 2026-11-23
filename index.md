@@ -6,7 +6,7 @@ title: Death Valley + Joshua Tree Trip, Dec 19–23, 2026
 # Death Valley + Joshua Tree Trip {#top}
 
 **Five park days · Sat Dec 19 – Wed Dec 23, 2026 · Death Valley → Mojave National Preserve → Joshua Tree**
-Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 28 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour and Travelers Monument as an optional Monday stop.
+Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a Google Maps pin. Distances are AllTrails' figures unless noted. All 31 stops in the plan have an AllTrails trail page, plus Ubehebe Crater as an optional Sunday detour, Travelers Monument and Castle Mountains as optional Monday stops, Wall Street Mill as an optional Tuesday detour, and Oasis of Mara as an optional Wednesday stop.
 
 <style>
 .trip-fig { margin: 14px 0; }
@@ -29,6 +29,7 @@ Every hike, viewpoint, and scramble on the trip, with its AllTrails page and a G
 - [Mon Dec 21 — Mojave National Preserve + transfer](#day-3)
 - [Tue Dec 22 — Joshua Tree west / central](#day-4)
 - [Wed Dec 23 — Joshua Tree east + the big hike](#day-5)
+- [Potential hikes to ask the ranger about](#potential-hikes)
 - [Visitor centers](#visitor-centers)
 - [Places to eat](#places-to-eat)
 - [Food to pack on the way](#food-to-pack)
@@ -186,7 +187,7 @@ Sleep: Furnace Creek (arrive ~midnight, ~12:30 AM with the Alien Center stop).
 
 ## Sat Dec 19 — Death Valley east / central {#day-1}
 
-The easy first day: the classic east-side viewpoints in one loop — Zabriskie Point's badlands at the start, Dante's View looking down 5,000 feet to Badwater, the salt flats, then Natural Bridge and Artist's Palette on the way back north to Furnace Creek.
+The easy first day: the classic east-side viewpoints in one loop — Zabriskie Point's badlands at the start, Dante's View looking down 5,000 feet to Badwater, the salt flats, then Natural Bridge and Artist's Palette on the way back north to Furnace Creek. The afternoon is open, so the day ends with the Salt Creek pupfish boardwalk, a short drive west on CA-190.
 
 <iframe src="map.html?day=day1" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Saturday Dec 19 — Death Valley east/central"></iframe>
 
@@ -201,6 +202,7 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 | [Artist's Palette / Artists Drive](https://www.google.com/maps/search/?api=1&query=36.363515,-116.802741) | 0.3 mi | 0.5–1 hr | ~11:00 AM | [Palette pullouts](https://www.google.com/maps/search/?api=1&query=36.363515,-116.802741) | [AllTrails](https://www.alltrails.com/trail/us/california/artists-palette-overlook) · [Map](https://www.google.com/maps/search/?api=1&query=36.363515,-116.802741) |
 | [Furnace Creek Visitor Center (stamp)](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | — | ~30 min | ~12:00 PM | [VC lot](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) | [Map](https://www.google.com/maps/search/?api=1&query=Furnace+Creek+Visitor+Center+Death+Valley+CA) |
 | [Harmony Borax Works Interpretive Trail](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) | 0.4 mi | 9 min | ~12:30 PM | [Harmony lot](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) | [AllTrails](https://www.alltrails.com/trail/us/california/harmony-borax-works) · [Map](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) |
+| [Salt Creek Interpretive Trail](https://www.google.com/maps/search/?api=1&query=36.5906,-116.9906) | 0.5 mi (NPS) | 30 min (NPS) | ~1:30 PM | [Salt Creek lot](https://www.google.com/maps/search/?api=1&query=36.5906,-116.9906) | [AllTrails](https://www.alltrails.com/trail/us/california/death-valley-national-park-salt-creek-interpretive-trail) · [Map](https://www.google.com/maps/search/?api=1&query=36.5906,-116.9906) |
 
 
 **The stops, in order:**
@@ -211,6 +213,7 @@ The easy first day: the classic east-side viewpoints in one loop — Zabriskie P
 - [**Natural Bridge Canyon**](https://www.google.com/maps/search/?api=1&query=36.28115,-116.7699) — a short gravel-road drive, then a walk up a dry wash to a natural rock bridge. An easy 1.5-mile round trip.
 - [**Artist's Palette / Artists Drive**](https://www.google.com/maps/search/?api=1&query=36.363515,-116.802741) — a one-way scenic drive through hills stained pink, green, and purple by minerals, with a short walk to the palette viewpoint itself. The drive runs one-way south to north — enter at the south end on the way back from Badwater.
 - [**Harmony Borax Works**](https://www.google.com/maps/search/?api=1&query=36.47982,-116.87107) — the ruins of the 1880s borax operation, with interpretive signs telling the twenty-mule-team story. A short, flat walk.
+- [**Salt Creek Interpretive Trail**](https://www.google.com/maps/search/?api=1&query=36.5906,-116.9906) — a 0.5-mile ADA-accessible boardwalk loop over a spring-fed salt creek, home to the rare Salt Creek pupfish (found nowhere else). Water flows November–May; best February–April when the pupfish spawn. Reopened February 2026 after a three-year closure (flood damage) with a new boardwalk. Stay on the boardwalk.
 
 Sleep: Furnace Creek.
 
@@ -280,7 +283,7 @@ Sleep: Joshua Tree town / Yucca Valley.
 
 ## Tue Dec 22 — Joshua Tree west / central {#day-4}
 
-The full Joshua Tree day: Ryan Mountain first for the morning light, then the short loops — Hidden Valley, Barker Dam, Hall of Horrors, Skull Rock, Split Rock — and up to Keys View for the afternoon, with the steep, partly unmarked Inspiration Peak climb from the Keys View lot before sunset at Keys View itself (4:40 PM; start the climb by ~2:30 PM).
+The full Joshua Tree day: Ryan Mountain first for the morning light, then the short loops — Hidden Valley, Barker Dam, Hall of Horrors, Skull Rock, Split Rock — and up to Keys View for the afternoon, with the steep, partly unmarked Inspiration Peak climb from the Keys View lot before sunset at Keys View itself (4:40 PM; start the climb by ~2:30 PM). Wall Street Mill (the 1930s gold mill) is an optional detour from the Barker Dam lot — it doesn't move the afternoon times.
 
 <iframe src="map.html?day=day4" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Tuesday Dec 22 — Joshua Tree west/central"></iframe>
 
@@ -292,6 +295,7 @@ The full Joshua Tree day: Ryan Mountain first for the morning light, then the sh
 | [Joshua Tree Visitor Center (stamp + café)](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+Visitor+Center+6554+Park+Blvd+Joshua+Tree+CA) | — | ~30 min | ~9:45 AM | [VC lot](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+Visitor+Center+6554+Park+Blvd+Joshua+Tree+CA) | [Map](https://www.google.com/maps/search/?api=1&query=Joshua+Tree+Visitor+Center+6554+Park+Blvd+Joshua+Tree+CA) |
 | [Hidden Valley Nature Trail](https://www.google.com/maps/search/?api=1&query=34.012466,-116.168057) | 1.0 mi | 0.5–1 hr | ~10:30 AM | [Hidden Valley lot](https://www.google.com/maps/search/?api=1&query=34.012466,-116.168057) | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/hidden-valley--3) · [Map](https://www.google.com/maps/search/?api=1&query=34.012466,-116.168057) |
 | [Barker Dam Trail](https://www.google.com/maps/search/?api=1&query=34.0251,-116.142) | 1.3 mi | 0.5–1 hr | ~11:15 AM | [Barker Dam lot](https://www.google.com/maps/search/?api=1&query=34.0251,-116.142) | [AllTrails](https://www.alltrails.com/trail/us/california/barker-dam--2) · [Map](https://www.google.com/maps/search/?api=1&query=34.0251,-116.142) |
+| [Wall Street Mill — **OPTIONAL**](https://www.google.com/maps/search/?api=1&query=34.036516,-116.133988) | 1.8 mi | 0.5–1 hr | ~11:45 AM (optional) | [Barker Dam lot](https://www.google.com/maps/search/?api=1&query=34.0251,-116.142) | [AllTrails](https://www.alltrails.com/trail/us/california/wall-street-mill) · [Map](https://www.google.com/maps/search/?api=1&query=34.036516,-116.133988) |
 | [Hall of Horrors](https://www.google.com/maps/search/?api=1&query=34.00052,-116.147084) | 0.6 mi | 0.5–1 hr | ~12:00 PM | [pullout](https://www.google.com/maps/search/?api=1&query=34.00052,-116.147084) | [AllTrails](https://www.alltrails.com/trail/us/california/hall-of-horrors) · [Map](https://www.google.com/maps/search/?api=1&query=34.00052,-116.147084) |
 | [Skull Rock Trail](https://www.google.com/maps/search/?api=1&query=33.997722,-116.059458) | 1.7 mi | 38 min | ~12:30 PM | [pullout on Park Blvd](https://www.google.com/maps/search/?api=1&query=33.997722,-116.059458) | [AllTrails](https://www.alltrails.com/trail/us/california/skull-rock-nature-trail) · [Map](https://www.google.com/maps/search/?api=1&query=33.997722,-116.059458) |
 | [Split Rock Loop Trail](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) | 2.5 mi | 1–1.5 hr | ~1:15 PM | [Split Rock lot](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) | [AllTrails](https://www.alltrails.com/trail/us/california/split-rock-loop--4) · [Map](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) |
@@ -304,6 +308,7 @@ The full Joshua Tree day: Ryan Mountain first for the morning light, then the sh
 - [**Ryan Mountain Trail**](https://www.google.com/maps/search/?api=1&query=34.00257,-116.13594) — the day's real climb: 2.9 miles and about 1,050 feet to the best panoramic summit in the park. Do it first, before the afternoon catches up.
 - [**Hidden Valley Nature Trail**](https://www.google.com/maps/search/?api=1&query=34.012466,-116.168057) — a 1-mile loop through a boulder-enclosed valley once used as a cattle-rustling hideout. Rock climbers are often on the walls above the trail.
 - [**Barker Dam Trail**](https://www.google.com/maps/search/?api=1&query=34.0251,-116.142) — a 1.3-mile loop to a 1900s dam built by cattlemen, with desert views and petroglyphs nearby. Look for water in the dam's pool after rain.
+- [**Wall Street Mill**](https://www.google.com/maps/search/?api=1&query=34.036516,-116.133988) — a 1.8-mile out-and-back from the Barker Dam parking lot to a 1930s gold-processing mill, with the two-stamp mill building, rusted vintage cars, and the Wonderland Ranch ruins. Flat and easy. **Optional** — same lot as Barker Dam, so it's a detour if there's time; the afternoon times assume it's skipped.
 - [**Hall of Horrors**](https://www.google.com/maps/search/?api=1&query=34.00052,-116.147084) — a short scramble among house-sized boulders by Ryan Campground. It's rock scrambling rather than a formal trail, so take it slow.
 - [**Skull Rock Trail**](https://www.google.com/maps/search/?api=1&query=33.997722,-116.059458) — a 1.7-mile walk along Park Boulevard to the skull-shaped boulder, with rock piles and desert gardens along the way. Short and easy.
 - [**Split Rock Loop Trail**](https://www.google.com/maps/search/?api=1&query=34.00955,-116.05577) — a 2.5-mile loop past the split boulder and through desert wash scenery, with big rock formations the whole way.
@@ -314,7 +319,7 @@ Sleep: Joshua Tree town.
 
 ## Wed Dec 23 — Joshua Tree east + the big hike {#day-5}
 
-The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole, Lost Palms Oasis, or Warren Peak via Black Rock. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's south to Palm Desert for the Santa Rosa and San Jacinto Mountains National Monument stamp and the Randall Henderson loop, then the drive to Las Vegas for the Wednesday night flight home (car back by 9 PM, UA 2102 at 11:50 PM).
+The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree town ~5:45 AM), Arch Rock, then one big hike started early — Boy Scout Trail to Willow Hole, Lost Palms Oasis, or Warren Peak via Black Rock. An optional first stop, if you leave early (~5:15 AM): the Oasis of Mara palm loop at the Twentynine Palms visitor center. No Barstow detour anymore — the Mojave stamp was got at Hole-in-the-Wall on Monday — so after the hike it's south to Palm Desert for the Santa Rosa and San Jacinto Mountains National Monument stamp and the Randall Henderson loop, then the drive to Las Vegas for the Wednesday night flight home (car back by 9 PM, UA 2102 at 11:50 PM).
 
 <iframe src="map.html?day=day5" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for Wednesday Dec 23 — Joshua Tree east + the big hike"></iframe>
 
@@ -322,6 +327,7 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 
 | Stop | Distance | Time | Start | Parking | Links |
 | --- | --- | --- | --- | --- | --- |
+| [Oasis of Mara — **OPTIONAL**](https://www.google.com/maps/search/?api=1&query=34.128,-116.038) | 0.5 mi (NPS) | 30–45 min (NPS) | ~6:00 AM (optional) | [Oasis VC lot](https://www.google.com/maps/search/?api=1&query=34.128,-116.038) | [AllTrails](https://www.alltrails.com/trail/us/california/oasis-of-mara) · [Map](https://www.google.com/maps/search/?api=1&query=34.128,-116.038) |
 | [Cholla Cactus Garden Nature Trail 🌅 6:46 AM](https://www.google.com/maps/search/?api=1&query=33.9248428,-115.9293477) | 0.2 mi | 0.5–1 hr | ~6:30 AM | [Cholla lot](https://www.google.com/maps/search/?api=1&query=33.9248428,-115.9293477) | [AllTrails](https://www.alltrails.com/trail/us/california/cholla-cactus-garden) · [Map](https://www.google.com/maps/search/?api=1&query=33.9248428,-115.9293477) |
 | [Arch Rock Nature Trail](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) | 1.2 mi | 0.5–1 hr | ~8:00 AM | [Arch Rock lot](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) | [AllTrails](https://www.alltrails.com/trail/us/california/arch-rock-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) |
 | [Boy Scout Trail to Willow Hole](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) | 6.9 mi | 2–2.5 hr | ~9:30 AM | [Boy Scout Trailhead](https://www.google.com/maps/search/?api=1&query=34.04042,-116.18627) | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) |
@@ -332,12 +338,51 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 
 **The stops, in order:**
 
+- [**Oasis of Mara**](https://www.google.com/maps/search/?api=1&query=34.128,-116.038) — a 0.5-mile paved loop through a fan-palm oasis at the Twentynine Palms visitor center (park headquarters), with interpretive signs on the Serrano and Cahuilla history. **Optional** — a first stop before Cholla if you leave early (~5:15 AM); otherwise skip it and go straight to Cholla. **Note: the trail is partly closed after September 2025 flooding (closed past the oasis) — check with the ranger / NPS for the current status.**
 - [**Cholla Cactus Garden Nature Trail**](https://www.google.com/maps/search/?api=1&query=33.9248428,-115.9293477) — a 0.2-mile flat loop through a dense stand of teddybear cholla, best at sunrise when the spines glow: sunrise 6:46 AM, so be there by ~6:30 AM — leave Joshua Tree town around 5:45 AM, about a 40-minute drive (estimate). Look, don't touch — the segments detach easily.
 - [**Arch Rock Nature Trail**](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) — a 1.2-mile loop to the park's best-known granite arch, a 30-foot span on the White Tank Campground trail. Good morning light.
 - [**Boy Scout Trail to Willow Hole**](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) — a 6.9-mile sandy-wash hike to Willow Hole, a grove of willows and palms in the desert. Pick **one** big hike: this, Lost Palms Oasis, or Warren Peak.
 - [**Warren Peak**](https://www.google.com/maps/search/?api=1&query=34.0551,-116.4072) — a 5.7-mile out-and-back from the Black Rock Canyon trailhead to the 5,103-foot summit in the park's quiet northwest corner — panoramic views of San Gorgonio, San Jacinto, the Coachella Valley, and the Salton Sea. About 3–3.5 hours; the trailhead is at Black Rock Campground, near campsite 30 (a separate, isolated area — you leave the park via the west entrance and re-enter). Pick **one** big hike: this, Boy Scout to Willow Hole, or Lost Palms Oasis.
 - [**Lost Palms Oasis Trail**](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) — a 7.4-mile hike in the park's south end to a palm oasis in a rocky canyon. Pick **one** big hike: this, Boy Scout to Willow Hole, or Warren Peak. Carry plenty of water either way.
 - [**Santa Rosa and San Jacinto Mountains National Monument Visitor Center (stamp) + Randall Henderson Loop**](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) — the monument's visitor center on Highway 74 in Palm Desert (51-500 Hwy 74), open 8:30 AM–4 PM — get the passport stamp at the counter, then the Randall Henderson Loop, a 2.7-mile loop right from the visitor center lot (~1–1.5 hr, 426 ft gain). Arrive ~1:30 PM (Boy Scout) or ~1:45 PM (Warren Peak), done ~2:45–3:00 PM; with Lost Palms it's ~3:00 PM, stamp only — then the drive to Las Vegas. (Pioneertown swapped out Nov 18.)
+
+## Potential hikes to ask the ranger about {#potential-hikes}
+
+These are the hikes and sites that didn't make the day plans but are worth asking a ranger about — for current conditions, whether they fit, and whether they're worth a detour. None of these are in the day tables above, and none are on the day maps. Ask at the visitor center for the park you're in (Furnace Creek, Hole-in-the-Wall, or Joshua Tree) — the rangers will know the current road and trail conditions.
+
+### Death Valley
+
+| Hike / site | Distance | Time | Ask the ranger |
+| --- | --- | --- | --- |
+| Sidewinder Canyon | 5 mi | 6 hr | Slot canyons with scrambling up and down dryfalls; unmarked, navigation required. Ask about route-finding and current conditions — it needs a free slot and doesn't fit without replacing a hike. |
+| Fall Canyon | 6 mi | half day | Dramatic canyon walls, quieter than Golden Canyon. Access is via Titus Canyon Road — closed until ~May 2027 — so ask the ranger if there's another way in. |
+| Little Hebe Crater | on the Ubehebe loop | ~30 min | A smaller crater that comes into view ~0.5 mi into the Ubehebe loop. Only if the optional Ubehebe detour happens Sunday — ask if it's worth the extra walk. |
+| Wildrose Charcoal Kilns | short walk | ~30 min | Ten 1876 beehive kilns, among the best-preserved in the West. ~33.6 mi west on Hwy 190 then Emigrant Canyon Road (final 2 mi gravel). Ask about Emigrant Canyon Road conditions in December (snow/ice at elevation) — a long detour that doesn't fit the current days. |
+| Keane Wonder Mine | ~3 mi | 2–3 hr | Strenuous, ~1,500 ft gain, to a historic tramway and mill. Reopened November 2017. 2.8-mi unpaved access road off Beatty Cutoff Road (2WD OK when dry). Ask about current access — needs a slot, and Saturday and Sunday are full. |
+| Darwin Falls (+ Father Crowley Point) | 2 mi | 1–2 hr | A waterfall in a canyon on the park's west side, near Panamint Springs. Ask about flood-related access on Darwin Falls Road. Father Crowley Point is a viewpoint on CA-190 on the same west side. Both are a west-side detour. |
+| Wildrose Peak | 8.4 mi | 4–5 hr | Difficult, 9,064 ft summit. Ask about snow and ice in December. |
+| Racetrack Playa (sailing stones) | 26-mi dirt road in | full day | The moving rocks. The road in is 26 miles of rough dirt from Ubehebe Crater; NPS says at least 3.5 hours each way from Furnace Creek, and high-clearance 4WD is usually required (standard rentals not recommended). Ask about Racetrack Road conditions and whether the Rogue AWD can do it — a full-day detour the current plan doesn't have room for. |
+| Devil's Golf Course | viewpoint | ~15 min | Jagged salt pinnacles on Badwater Road. A quick photo stop on the Saturday route — ask if it's worth pulling in (it's right there). |
+| Twenty Mule Team Canyon | 2.7-mi loop drive | ~30 min | A one-way unpaved loop through badlands off CA-190 near Zabriskie Point (a Star Wars filming location). A short scenic drive, not a hike — ask if it's worth the loop on Saturday. |
+| Titus Canyon | 27-mi one-way drive | half day | **Closed** — Titus Canyon Road is closed until ~May 2027 (to vehicles, hikers, and cyclists). Don't attempt it this trip; ask the ranger about it for a future visit. |
+| Devils Hole (+ Ash Meadows) | boardwalks | 1–2 hr | A detached Death Valley unit inside Ash Meadows National Wildlife Refuge (~50 mi east of Furnace Creek, near Pahrump) — a water-filled cave, the only natural habitat of the Devils Hole pupfish (137 counted Oct 10, 2026). Fenced off, with a viewing platform. The Point of Rocks boardwalk (0.5 mi, Kings Pool) is right there. Ask about visiting — it's a detour from Pahrump and doesn't fit Sunday evening or Monday morning cleanly. |
+
+### Mojave National Preserve
+
+| Hike / site | Distance | Time | Ask the ranger |
+| --- | --- | --- | --- |
+| Mitchell Caverns | 1.5-mi hike + 2-hr tour | half day | Tours run Fridays, Saturdays, Sundays, and holiday Mondays only — Monday Dec 21 is a regular Monday, so it's closed this trip. $20/adult, reservation only. Ask about it for a future trip. |
+| Avi Kwa Ame National Monument (context) | — | — | Not a hike. If you do the Castle Mountains option Monday, the Walking Box Ranch Road drive passes through Avi Kwa Ame National Monument (designated 2023) before entering Castle Mountains NM at the California line. The ranch itself is closed to the public except special events. |
+
+### Joshua Tree + Chuckwalla
+
+| Hike / site | Distance | Time | Ask the ranger |
+| --- | --- | --- | --- |
+| Fortynine Palms Oasis | 3 mi | 2–3 hr | Difficult, 300 ft gain each way, off Hwy 62 on Canyon Road. Ask about the September 2025 flood damage — parts of the trail may still be closed — and whether it fits as a Wednesday big-hike alternative. |
+| Lost Horse Mine | 4.1 mi | 1.5–2 hr | Moderate, ~528 ft gain, to a preserved 10-stamp mill (one of the park's most successful gold mines). Trailhead off Keys View Road. Ask about it as a Tuesday or Wednesday option. |
+| Mastodon Peak Loop | 3 mi | 1.5–2.5 hr | Moderate, 375 ft, from the Cottonwood Spring lot (same trailhead as Lost Palms). A shorter Wednesday alternative to Lost Palms — not an addition to it (doing both doesn't fit the Wednesday window). |
+| Cottonwood Spring | 0.1 mi | ~10 min | A fan-palm oasis 1 mi east of Cottonwood Visitor Center (same area as Lost Palms / Mastodon Peak). Ask about it if you pick Lost Palms Wednesday — it's at the same trailhead. |
+| Chuckwalla National Monument (Ladder Canyon) | — | half day | BLM monument (624,000 acres, established Jan 14, 2025) south of Joshua Tree. Ladder Canyon is a slot canyon with ladder climbs in the Mecca Hills. No visitor center yet. The monument's status is being challenged in court (filed May 2025; five tribal nations and nine nonprofits were allowed to intervene in March 2026) but it remains in place. Ask about it as a Wednesday big-hike alternative — it's a detour south near Mecca, not on the way to Palm Desert. |
 
 ## Visitor centers {#visitor-centers}
 
