@@ -26,8 +26,8 @@
 <div id="map"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-var COLORS = { day0: "#8d6e63", day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e", day4: "#7b1fa2", day5: "#c62828" };
-var DAYLABEL = { day0: "Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs", day1: "Day 1 · Sat Dec 19 — Death Valley east/central", day2: "Day 2 · Sun Dec 20 — Death Valley canyons", day3: "Day 3 · Mon Dec 21 — Mojave + transfer", day4: "Day 4 · Tue Dec 22 — Joshua Tree west/central", day5: "Day 5 · Wed Dec 23 — Joshua Tree east + big hike" };
+var COLORS = { day0: "#8d6e63", day1: "#1d6fb8", day2: "#e07b00", day3: "#1e8e3e", day4: "#7b1fa2", day5: "#c62828", potential: "#00897b" };
+var DAYLABEL = { day0: "Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs", day1: "Day 1 · Sat Dec 19 — Death Valley east/central", day2: "Day 2 · Sun Dec 20 — Death Valley canyons", day3: "Day 3 · Mon Dec 21 — Mojave + transfer", day4: "Day 4 · Tue Dec 22 — Joshua Tree west/central", day5: "Day 5 · Wed Dec 23 — Joshua Tree east + big hike", potential: "Potential — ask the ranger" };
 var STOPS = [
   // Fri Dec 18 — Las Vegas: Ice Age Fossils, Lake Mead + Tule Springs, then the night drive
   { n: "VC · Ice Age Fossils State Park", d: "day0", t: "Nevada state park on the Ice Age fossil beds · visitor center, mammoth exhibits, Megafauna Trail (0.3 mi) · STAMP for Tule Springs Fossil Beds · Wed–Sun 8 AM–4:30 PM, last entry 4 PM, $3/person", lat: 36.318764, lng: -115.205324, q: "Ice+Age+Fossils+State+Park+North+Las+Vegas+NV" },
@@ -80,6 +80,23 @@ var STOPS = [
   { n: "3a · Warren Peak", d: "day5", t: "Warren Peak (5,103 ft) via Black Rock Canyon · 5.7 mi out-and-back, 3–3.5 hr · panoramic summit views — San Gorgonio, San Jacinto, Coachella Valley, Salton Sea · trailhead at Black Rock Campground, near campsite 30", lat: 34.0551, lng: -116.4072, q: "Warren+Peak+Joshua+Tree+National+Park" },
   { n: "4 · Lost Palms Oasis Trail", d: "day5", t: "7.4 mi · pick ONE big hike — this, Boy Scout to Willow Hole, or Warren Peak", lat: 33.737, lng: -115.8107, q: "Lost+Palms+Oasis+Joshua+Tree+National+Park+CA" },
   { n: "VC · Santa Rosa and San Jacinto Mountains National Monument Visitor Center", d: "day5", t: "Monument visitor center on Hwy 74, Palm Desert · open 8:30 AM–4 PM · STAMP for Santa Rosa and San Jacinto Mountains NM · Randall Henderson Loop (2.7 mi) starts at the visitor center", lat: 33.6715, lng: -116.4079, q: "Santa+Rosa+and+San+Jacinto+Mountains+National+Monument+Visitor+Center+Palm+Desert+CA" },
+  { n: "P · Sidewinder Canyon", d: "potential", t: "5 mi, 6 hr · slot canyons with dryfall scrambling, unmarked · trailhead off Badwater Road", lat: 36.06465, lng: -116.744785, q: "Sidewinder+Canyon+Death+Valley+National+Park" },
+  { n: "P · Fall Canyon / Titus Canyon west entrance", d: "potential", t: "Fall Canyon trailhead (6 mi) · west entrance to Titus Canyon — the 27-mi one-way drive is CLOSED until ~May 2027", lat: 36.822117, lng: -117.174067, q: "Fall+Canyon+Death+Valley+National+Park" },
+  { n: "P · Little Hebe Crater", d: "potential", t: "Smaller crater on the Ubehebe loop, ~0.5 mi in · ~30 min · only if the Ubehebe detour happens", lat: 37.00438, lng: -117.45146, q: "Little+Hebe+Crater+Death+Valley" },
+  { n: "P · Wildrose Charcoal Kilns / Wildrose Peak", d: "potential", t: "Ten 1876 beehive kilns · also the trailhead for Wildrose Peak (8.4 mi, 9,064 ft summit)", lat: 36.246383, lng: -117.076033, q: "Wildrose+Charcoal+Kilns+Death+Valley" },
+  { n: "P · Keane Wonder Mine", d: "potential", t: "~3 mi, 2–3 hr, strenuous · historic tramway and mill · 2.8-mi dirt access road off Beatty Cutoff Road", lat: 36.667495, lng: -116.910839, q: "Keane+Wonder+Mine+Death+Valley" },
+  { n: "P · Darwin Falls", d: "potential", t: "2 mi, 1–2 hr · waterfall on the park's west side · access changed after 2023 flooding — park on the CA-190 shoulder and walk the wash", lat: 36.327763, lng: -117.51466, q: "Darwin+Falls+Death+Valley" },
+  { n: "P · Racetrack Playa", d: "potential", t: "Sailing stones · Grandstand parking, north end of the playa · 26 mi of rough dirt in, high-clearance 4WD usually required", lat: 36.694343, lng: -117.571558, q: "Racetrack+Playa+Death+Valley" },
+  { n: "P · Devil's Golf Course", d: "potential", t: "Jagged salt pinnacles on Badwater Road · viewpoint, ~15 min · parking pullout off the gravel spur", lat: 36.285975, lng: -116.826132, q: "Devils+Golf+Course+Death+Valley" },
+  { n: "P · Twenty Mule Team Canyon", d: "potential", t: "2.7-mi one-way unpaved loop drive through badlands off CA-190 · ~30 min · Star Wars filming location", lat: 36.40953, lng: -116.7947, q: "Twenty+Mule+Team+Canyon+Death+Valley" },
+  { n: "P · Devils Hole", d: "potential", t: "Detached Death Valley unit in Ash Meadows NWR · the only habitat of the Devils Hole pupfish (137 counted Oct 10, 2026) · fenced, viewing platform", lat: 36.425234, lng: -116.290873, q: "Devils+Hole+Death+Valley+National+Park" },
+  { n: "P · Mitchell Caverns", d: "potential", t: "1.5-mi hike + 2-hr guided cave tour · tours Fri–Sun + holiday Mondays only — closed Mon Dec 21 · $20/adult, reservation only", lat: 34.943615, lng: -115.513396, q: "Mitchell+Caverns+Providence+Mountains+California" },
+  { n: "P · Fortynine Palms Oasis", d: "potential", t: "3 mi, 2–3 hr, difficult · trailhead at the end of Canyon Road · ask about Sept 2025 flood damage", lat: 34.119228, lng: -116.112074, q: "Fortynine+Palms+Oasis+Joshua+Tree" },
+  { n: "P · Lost Horse Mine", d: "potential", t: "4.1 mi, 1.5–2 hr · preserved 10-stamp mill · trailhead off Keys View Road", lat: 33.9507, lng: -116.15982, q: "Lost+Horse+Mine+Joshua+Tree" },
+  { n: "P · Mastodon Peak", d: "potential", t: "3-mi loop, 1.5–2.5 hr · from the Cottonwood Spring parking area · shorter Wednesday alternative to Lost Palms", lat: 33.737, lng: -115.8107, q: "Mastodon+Peak+Joshua+Tree" },
+  { n: "P · Cottonwood Spring", d: "potential", t: "Fan-palm oasis, 0.1 mi, ~10 min · 1 mi east of Cottonwood Visitor Center · same trailhead as Lost Palms / Mastodon Peak", lat: 33.736676, lng: -115.809711, q: "Cottonwood+Spring+Joshua+Tree+National+Park" },
+  { n: "P · Ladder Canyon", d: "potential", t: "Slot canyon with ladder climbs in the Mecca Hills (Chuckwalla National Monument) · trailhead at the end of Painted Canyon Road", lat: 33.619043, lng: -115.999387, q: "Ladder+Canyon+Mecca+Hills+California" },
+  { n: "P · Coachella Valley Preserve", d: "potential", t: "Palm oasis on the San Andreas Fault (McCallum Trail, 1.9 mi) · ~10 min from the Palm Desert monument VC · published hours Sat–Sun 7 AM–3 PM only — may be closed Wed Dec 23", lat: 33.831205, lng: -116.309518, q: "Coachella+Valley+Preserve+Thousand+Palms" },
 ];
 var params = new URLSearchParams(window.location.search);
 var onlyDay = params.get("day");
