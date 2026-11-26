@@ -347,7 +347,7 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 | [Arch Rock Nature Trail](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) | 1.2 mi | 0.5–1 hr | ~8:00 AM | ~8:40 AM | [Arch Rock lot](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) | [AllTrails](https://www.alltrails.com/trail/us/california/arch-rock-trail--2) · [Map](https://www.google.com/maps/search/?api=1&query=33.9899,-116.02275) |
 | [Boy Scout Trail to Willow Hole](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) | 6.9 mi | 2–2.5 hr | ~9:30 AM | ~12:20 PM | [Boy Scout Trailhead](https://www.google.com/maps/search/?api=1&query=34.04042,-116.18627) | [AllTrails](https://www.alltrails.com/en-gb/trail/us/california/willow-hole) · [Map](https://www.google.com/maps/search/?api=1&query=34.05708,-116.17954) |
 | [Warren Peak](https://www.google.com/maps/search/?api=1&query=34.0551,-116.4072) | 5.7 mi | 3–3.5 hr | ~9:30 AM | ~12:40 PM | [Black Rock trailhead](https://www.google.com/maps/search/?api=1&query=34.07155,-116.3909) | [AllTrails](https://www.alltrails.com/trail/us/california/black-rock-canyon-trail-to-warren-peak) · [Map](https://www.google.com/maps/search/?api=1&query=34.0551,-116.4072) |
-| [Lost Palms Oasis Trail](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) | 7.4 mi | 3–4 hr (guides) | ~10:00 AM | ~2:15 PM | [Cottonwood Spring lot](https://www.google.com/maps/search/?api=1&query=33.67555,-115.80163) | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) |
+| [Lost Palms Oasis Trail](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) | 7.4 mi | 3–4 hr (guides) | ~10:00 AM | ~2:15 PM | [Cottonwood Spring lot](https://www.google.com/maps/search/?api=1&query=33.737,-115.811) | [AllTrails](https://www.alltrails.com/trail/us/california/lost-palms-oasis--4) · [Map](https://www.google.com/maps/search/?api=1&query=33.737,-115.8107) |
 | [Santa Rosa and San Jacinto Mountains National Monument Visitor Center (stamp) + Randall Henderson Loop](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) | 2.7 mi | ~1 hr 15 min | ~1:30 PM | — | [visitor center lot](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) | [AllTrails](https://www.alltrails.com/trail/us/california/randall-henderson-loop-trail) · [Map](https://www.google.com/maps/search/?api=1&query=33.6715,-116.4079) |
 
 *Leave by = the next stop's Start at stop minus the estimated drive (rounded to 5 min). Oasis of Mara: leave by ~6:00 AM means a quick look only — the full 30–45-minute loop pushes Cholla past sunrise. Arch Rock's ~8:40 AM is the earliest of the three big hikes (Warren Peak); Boy Scout ~9:05 AM, Lost Palms ~9:10 AM.*
@@ -366,7 +366,11 @@ The last day: Cholla Cactus Garden at sunrise (6:46 AM — leave Joshua Tree tow
 
 ## Potential hikes to ask the ranger about {#potential-hikes}
 
-These are the hikes and sites that didn't make the day plans but are worth asking a ranger about — for current conditions, whether they fit, and whether they're worth a detour. None of these are in the day tables above, and none are on the day maps. Ask at the visitor center for the park you're in (Furnace Creek, Hole-in-the-Wall, or Joshua Tree) — the rangers will know the current road and trail conditions.
+These are the hikes and sites that didn't make the day plans but are worth asking a ranger about — for current conditions, whether they fit, and whether they're worth a detour. None of these are in the day tables above. They're all on the map below, in teal — a separate layer from the day pins, and you can toggle it on the full trip map too. Ask at the visitor center for the park you're in (Furnace Creek, Hole-in-the-Wall, or Joshua Tree) — the rangers will know the current road and trail conditions.
+
+<iframe src="map.html?day=potential" width="100%" style="border:1px solid #ccc; border-radius:8px; height:60vh; min-height:420px;" title="Map for the potential places"></iframe>
+
+[Open the map for the potential places full-screen](map.html?day=potential)
 
 ### Death Valley
 
