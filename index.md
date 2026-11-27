@@ -529,6 +529,7 @@ December desert: mild days, cold mornings and nights, no cell service in the par
 
 - [ ] Phone, charger, and power bank
 - [ ] Offline maps downloaded in AllTrails+ before leaving Las Vegas
+- [ ] Offline maps downloaded in Google Maps before the trip — Death Valley, Mojave, Joshua Tree, Las Vegas, Pahrump
 - [ ] Laptop and charger — Friday is a remote-work day in Las Vegas
 - [ ] Car charger
 
